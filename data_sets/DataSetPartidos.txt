@@ -1,0 +1,2661 @@
+idPartido,EquipoLocal,EquipoVisitante,golesLocal,golesVisitante,Temporada
+1,Valencia,Las Palmas,1,0,2017-2018
+2,Leganes,Alaves,1,0,2017-2018
+3,Celta Vigo,Real Sociedad,2,3,2017-2018
+4,Girona,Atletico de Madrid,2,2,2017-2018
+5,Sevilla,Espanyol,1,1,2017-2018
+6,Athletic Club,Getafe,0,0,2017-2018
+7,Barcelona,Betis,2,0,2017-2018
+8,Deportivo de La Coruna,Real Madrid,0,3,2017-2018
+9,Levante,Villarreal,1,0,2017-2018
+10,Malaga,Eibar,0,1,2017-2018
+11,Real Sociedad,Villarreal,3,0,2017-2018
+12,Betis,Celta Vigo,2,1,2017-2018
+13,Alaves,Barcelona,0,2,2017-2018
+14,Levante,Deportivo de La Coruna,2,2,2017-2018
+15,Las Palmas,Atletico de Madrid,1,5,2017-2018
+16,Girona,Malaga,1,0,2017-2018
+17,Espanyol,Leganes,0,1,2017-2018
+18,Real Madrid,Valencia,2,2,2017-2018
+19,Getafe,Sevilla,0,1,2017-2018
+20,Eibar,Athletic Club,0,1,2017-2018
+21,Leganes,Getafe,1,2,2017-2018
+22,Valencia,Atletico de Madrid,0,0,2017-2018
+23,Real Madrid,Levante,1,1,2017-2018
+24,Sevilla,Eibar,3,0,2017-2018
+25,Barcelona,Espanyol,5,0,2017-2018
+26,Villarreal,Betis,3,1,2017-2018
+27,Deportivo de La Coruna,Real Sociedad,2,4,2017-2018
+28,Celta Vigo,Alaves,1,0,2017-2018
+29,Athletic Club,Girona,2,0,2017-2018
+30,Malaga,Las Palmas,1,3,2017-2018
+31,Eibar,Leganes,1,0,2017-2018
+32,Getafe,Barcelona,1,2,2017-2018
+33,Betis,Deportivo de La Coruna,2,1,2017-2018
+34,Atletico de Madrid,Malaga,1,0,2017-2018
+35,Levante,Valencia,1,1,2017-2018
+36,Las Palmas,Athletic Club,1,0,2017-2018
+37,Girona,Sevilla,0,1,2017-2018
+38,Real Sociedad,Real Madrid,1,3,2017-2018
+39,Alaves,Villarreal,0,3,2017-2018
+40,Espanyol,Celta Vigo,2,1,2017-2018
+41,Barcelona,Eibar,6,1,2017-2018
+42,Valencia,Malaga,5,0,2017-2018
+43,Athletic Club,Atletico de Madrid,1,2,2017-2018
+44,Sevilla,Las Palmas,1,0,2017-2018
+45,Deportivo de La Coruna,Alaves,1,0,2017-2018
+46,Real Madrid,Betis,0,1,2017-2018
+47,Leganes,Girona,0,0,2017-2018
+48,Celta Vigo,Getafe,1,1,2017-2018
+49,Levante,Real Sociedad,3,0,2017-2018
+50,Villarreal,Espanyol,0,0,2017-2018
+51,Alaves,Real Madrid,1,2,2017-2018
+52,Malaga,Athletic Club,3,3,2017-2018
+53,Atletico de Madrid,Sevilla,2,0,2017-2018
+54,Girona,Barcelona,0,3,2017-2018
+55,Espanyol,Deportivo de La Coruna,4,1,2017-2018
+56,Las Palmas,Leganes,0,2,2017-2018
+57,Getafe,Villarreal,4,0,2017-2018
+58,Eibar,Celta Vigo,0,4,2017-2018
+59,Real Sociedad,Valencia,2,3,2017-2018
+60,Betis,Levante,4,0,2017-2018
+61,Celta Vigo,Girona,3,3,2017-2018
+62,Leganes,Atletico de Madrid,0,0,2017-2018
+63,Sevilla,Malaga,2,0,2017-2018
+64,Levante,Alaves,0,2,2017-2018
+65,Deportivo de La Coruna,Getafe,2,1,2017-2018
+66,Valencia,Athletic Club,3,2,2017-2018
+67,Real Madrid,Espanyol,2,0,2017-2018
+68,Real Sociedad,Betis,4,4,2017-2018
+69,Barcelona,Las Palmas,3,0,2017-2018
+70,Villarreal,Eibar,3,0,2017-2018
+71,Espanyol,Levante,0,0,2017-2018
+72,Getafe,Real Madrid,1,2,2017-2018
+73,Athletic Club,Sevilla,1,0,2017-2018
+74,Alaves,Real Sociedad,0,2,2017-2018
+75,Atletico de Madrid,Barcelona,1,1,2017-2018
+76,Girona,Villarreal,1,2,2017-2018
+77,Betis,Valencia,3,6,2017-2018
+78,Eibar,Deportivo de La Coruna,0,0,2017-2018
+79,Malaga,Leganes,0,2,2017-2018
+80,Las Palmas,Celta Vigo,2,5,2017-2018
+81,Levante,Getafe,1,1,2017-2018
+82,Barcelona,Malaga,2,0,2017-2018
+83,Valencia,Sevilla,4,0,2017-2018
+84,Betis,Alaves,2,0,2017-2018
+85,Villarreal,Las Palmas,4,0,2017-2018
+86,Real Madrid,Eibar,3,0,2017-2018
+87,Leganes,Athletic Club,1,0,2017-2018
+88,Celta Vigo,Atletico de Madrid,0,1,2017-2018
+89,Deportivo de La Coruna,Girona,1,2,2017-2018
+90,Real Sociedad,Espanyol,1,1,2017-2018
+91,Alaves,Valencia,1,2,2017-2018
+92,Sevilla,Leganes,2,1,2017-2018
+93,Atletico de Madrid,Villarreal,1,1,2017-2018
+94,Athletic Club,Barcelona,0,2,2017-2018
+95,Malaga,Celta Vigo,2,1,2017-2018
+96,Girona,Real Madrid,2,1,2017-2018
+97,Getafe,Real Sociedad,2,1,2017-2018
+98,Eibar,Levante,2,2,2017-2018
+99,Espanyol,Betis,1,0,2017-2018
+100,Las Palmas,Deportivo de La Coruna,1,3,2017-2018
+101,Betis,Getafe,2,2,2017-2018
+102,Alaves,Espanyol,1,0,2017-2018
+103,Barcelona,Sevilla,2,1,2017-2018
+104,Deportivo de La Coruna,Atletico de Madrid,0,1,2017-2018
+105,Valencia,Leganes,3,0,2017-2018
+106,Real Sociedad,Eibar,3,1,2017-2018
+107,Celta Vigo,Athletic Club,3,1,2017-2018
+108,Levante,Girona,1,2,2017-2018
+109,Villarreal,Malaga,2,0,2017-2018
+110,Real Madrid,Las Palmas,3,0,2017-2018
+111,Girona,Real Sociedad,1,1,2017-2018
+112,Leganes,Barcelona,0,3,2017-2018
+113,Sevilla,Celta Vigo,2,1,2017-2018
+114,Atletico de Madrid,Real Madrid,0,0,2017-2018
+115,Getafe,Alaves,4,1,2017-2018
+116,Athletic Club,Villarreal,1,1,2017-2018
+117,Malaga,Deportivo de La Coruna,3,2,2017-2018
+118,Espanyol,Valencia,0,2,2017-2018
+119,Las Palmas,Levante,0,2,2017-2018
+120,Eibar,Betis,5,0,2017-2018
+121,Celta Vigo,Leganes,1,0,2017-2018
+122,Levante,Atletico de Madrid,0,5,2017-2018
+123,Real Madrid,Malaga,3,2,2017-2018
+124,Betis,Girona,2,2,2017-2018
+125,Alaves,Eibar,1,2,2017-2018
+126,Villarreal,Sevilla,2,3,2017-2018
+127,Deportivo de La Coruna,Athletic Club,2,2,2017-2018
+128,Valencia,Barcelona,1,1,2017-2018
+129,Real Sociedad,Las Palmas,2,2,2017-2018
+130,Espanyol,Getafe,1,0,2017-2018
+131,Malaga,Levante,0,0,2017-2018
+132,Sevilla,Deportivo de La Coruna,2,0,2017-2018
+133,Atletico de Madrid,Real Sociedad,2,1,2017-2018
+134,Barcelona,Celta Vigo,2,2,2017-2018
+135,Athletic Club,Real Madrid,0,0,2017-2018
+136,Las Palmas,Betis,1,0,2017-2018
+137,Getafe,Valencia,1,0,2017-2018
+138,Leganes,Villarreal,3,1,2017-2018
+139,Eibar,Espanyol,3,1,2017-2018
+140,Girona,Alaves,2,3,2017-2018
+141,Alaves,Las Palmas,2,0,2017-2018
+142,Deportivo de La Coruna,Leganes,1,0,2017-2018
+143,Valencia,Celta Vigo,2,1,2017-2018
+144,Real Madrid,Sevilla,5,0,2017-2018
+145,Getafe,Eibar,0,0,2017-2018
+146,Real Sociedad,Malaga,0,2,2017-2018
+147,Levante,Athletic Club,1,2,2017-2018
+148,Villarreal,Barcelona,0,2,2017-2018
+149,Betis,Atletico de Madrid,0,1,2017-2018
+150,Espanyol,Girona,0,1,2017-2018
+151,Sevilla,Levante,0,0,2017-2018
+152,Eibar,Valencia,2,1,2017-2018
+153,Athletic Club,Real Sociedad,0,0,2017-2018
+154,Atletico de Madrid,Alaves,1,0,2017-2018
+155,Celta Vigo,Villarreal,0,1,2017-2018
+156,Barcelona,Deportivo de La Coruna,4,0,2017-2018
+157,Las Palmas,Espanyol,2,2,2017-2018
+158,Girona,Getafe,1,0,2017-2018
+159,Malaga,Betis,0,2,2017-2018
+160,Leganes,Real Madrid,1,3,2017-2018
+161,Levante,Leganes,0,0,2017-2018
+162,Getafe,Las Palmas,2,0,2017-2018
+163,Real Sociedad,Sevilla,3,1,2017-2018
+164,Eibar,Girona,4,1,2017-2018
+165,Alaves,Malaga,1,0,2017-2018
+166,Betis,Athletic Club,0,2,2017-2018
+167,Espanyol,Atletico de Madrid,1,0,2017-2018
+168,Deportivo de La Coruna,Celta Vigo,1,3,2017-2018
+169,Valencia,Villarreal,0,1,2017-2018
+170,Real Madrid,Barcelona,0,3,2017-2018
+171,Las Palmas,Eibar,1,2,2017-2018
+172,Valencia,Girona,2,1,2017-2018
+173,Sevilla,Betis,3,5,2017-2018
+174,Atletico de Madrid,Getafe,2,0,2017-2018
+175,Barcelona,Levante,3,0,2017-2018
+176,Villarreal,Deportivo de La Coruna,1,1,2017-2018
+177,Leganes,Real Sociedad,1,0,2017-2018
+178,Celta Vigo,Real Madrid,2,2,2017-2018
+179,Athletic Club,Alaves,2,0,2017-2018
+180,Malaga,Espanyol,0,1,2017-2018
+181,Getafe,Malaga,1,0,2017-2018
+182,Girona,Las Palmas,6,0,2017-2018
+183,Deportivo de La Coruna,Valencia,1,2,2017-2018
+184,Real Madrid,Villarreal,0,1,2017-2018
+185,Eibar,Atletico de Madrid,0,1,2017-2018
+186,Alaves,Sevilla,1,0,2017-2018
+187,Espanyol,Athletic Club,1,1,2017-2018
+188,Levante,Celta Vigo,0,1,2017-2018
+189,Real Sociedad,Barcelona,2,4,2017-2018
+190,Betis,Leganes,3,2,2017-2018
+191,Getafe,Athletic Club,2,2,2017-2018
+192,Atletico de Madrid,Girona,1,1,2017-2018
+193,Las Palmas,Valencia,2,1,2017-2018
+194,Villarreal,Levante,2,1,2017-2018
+195,Espanyol,Sevilla,0,3,2017-2018
+196,Real Madrid,Deportivo de La Coruna,7,1,2017-2018
+197,Betis,Barcelona,0,5,2017-2018
+198,Real Sociedad,Celta Vigo,1,2,2017-2018
+199,Alaves,Leganes,2,2,2017-2018
+200,Eibar,Malaga,1,1,2017-2018
+201,Athletic Club,Eibar,1,1,2017-2018
+202,Deportivo de La Coruna,Levante,2,2,2017-2018
+203,Valencia,Real Madrid,1,4,2017-2018
+204,Malaga,Girona,0,0,2017-2018
+205,Villarreal,Real Sociedad,4,2,2017-2018
+206,Sevilla,Getafe,1,1,2017-2018
+207,Barcelona,Alaves,2,1,2017-2018
+208,Atletico de Madrid,Las Palmas,3,0,2017-2018
+209,Leganes,Espanyol,3,2,2017-2018
+210,Celta Vigo,Betis,3,2,2017-2018
+211,Real Sociedad,Deportivo de La Coruna,5,0,2017-2018
+212,Alaves,Celta Vigo,2,1,2017-2018
+213,Betis,Villarreal,2,1,2017-2018
+214,Eibar,Sevilla,5,1,2017-2018
+215,Levante,Real Madrid,2,2,2017-2018
+216,Espanyol,Barcelona,1,1,2017-2018
+217,Atletico de Madrid,Valencia,1,0,2017-2018
+218,Getafe,Leganes,0,0,2017-2018
+219,Girona,Athletic Club,2,0,2017-2018
+220,Las Palmas,Malaga,1,0,2017-2018
+221,Athletic Club,Las Palmas,0,0,2017-2018
+222,Leganes,Eibar,0,1,2017-2018
+223,Villarreal,Alaves,1,2,2017-2018
+224,Real Madrid,Real Sociedad,5,2,2017-2018
+225,Malaga,Atletico de Madrid,0,1,2017-2018
+226,Valencia,Levante,3,1,2017-2018
+227,Celta Vigo,Espanyol,2,2,2017-2018
+228,Sevilla,Girona,1,0,2017-2018
+229,Barcelona,Getafe,0,0,2017-2018
+230,Deportivo de La Coruna,Betis,0,1,2017-2018
+231,Girona,Leganes,3,0,2017-2018
+232,Eibar,Barcelona,0,2,2017-2018
+233,Malaga,Valencia,1,2,2017-2018
+234,Las Palmas,Sevilla,1,2,2017-2018
+235,Alaves,Deportivo de La Coruna,1,0,2017-2018
+236,Betis,Real Madrid,3,5,2017-2018
+237,Real Sociedad,Levante,3,0,2017-2018
+238,Espanyol,Villarreal,1,1,2017-2018
+239,Atletico de Madrid,Athletic Club,2,0,2017-2018
+240,Getafe,Celta Vigo,3,0,2017-2018
+241,Deportivo de La Coruna,Espanyol,0,0,2017-2018
+242,Barcelona,Girona,6,1,2017-2018
+243,Leganes,Las Palmas,0,0,2017-2018
+244,Real Madrid,Alaves,4,0,2017-2018
+245,Celta Vigo,Eibar,2,0,2017-2018
+246,Athletic Club,Malaga,2,1,2017-2018
+247,Sevilla,Atletico de Madrid,2,5,2017-2018
+248,Villarreal,Getafe,1,0,2017-2018
+249,Valencia,Real Sociedad,2,1,2017-2018
+250,Levante,Betis,0,2,2017-2018
+251,Espanyol,Real Madrid,1,0,2017-2018
+252,Girona,Celta Vigo,1,0,2017-2018
+253,Atletico de Madrid,Leganes,4,0,2017-2018
+254,Getafe,Deportivo de La Coruna,3,0,2017-2018
+255,Athletic Club,Valencia,1,1,2017-2018
+256,Eibar,Villarreal,1,0,2017-2018
+257,Malaga,Sevilla,0,1,2017-2018
+258,Alaves,Levante,1,0,2017-2018
+259,Betis,Real Sociedad,0,0,2017-2018
+260,Las Palmas,Barcelona,1,1,2017-2018
+261,Leganes,Malaga,2,0,2017-2018
+262,Villarreal,Girona,0,2,2017-2018
+263,Deportivo de La Coruna,Eibar,1,1,2017-2018
+264,Real Madrid,Getafe,3,1,2017-2018
+265,Sevilla,Athletic Club,2,0,2017-2018
+266,Valencia,Betis,2,0,2017-2018
+267,Real Sociedad,Alaves,2,1,2017-2018
+268,Levante,Espanyol,1,1,2017-2018
+269,Barcelona,Atletico de Madrid,1,0,2017-2018
+270,Celta Vigo,Las Palmas,2,1,2017-2018
+271,Girona,Deportivo de La Coruna,2,0,2017-2018
+272,Eibar,Real Madrid,1,2,2017-2018
+273,Sevilla,Valencia,0,2,2017-2018
+274,Malaga,Barcelona,0,2,2017-2018
+275,Getafe,Levante,0,1,2017-2018
+276,Las Palmas,Villarreal,0,2,2017-2018
+277,Espanyol,Real Sociedad,2,1,2017-2018
+278,Atletico de Madrid,Celta Vigo,3,0,2017-2018
+279,Athletic Club,Leganes,2,0,2017-2018
+280,Alaves,Betis,1,3,2017-2018
+281,Levante,Eibar,2,1,2017-2018
+282,Real Sociedad,Getafe,1,2,2017-2018
+283,Deportivo de La Coruna,Las Palmas,1,1,2017-2018
+284,Valencia,Alaves,3,1,2017-2018
+285,Betis,Espanyol,3,0,2017-2018
+286,Barcelona,Athletic Club,2,0,2017-2018
+287,Leganes,Sevilla,2,1,2017-2018
+288,Villarreal,Atletico de Madrid,2,1,2017-2018
+289,Celta Vigo,Malaga,0,0,2017-2018
+290,Real Madrid,Girona,6,3,2017-2018
+291,Athletic Club,Celta Vigo,1,1,2017-2018
+292,Girona,Levante,1,1,2017-2018
+293,Sevilla,Barcelona,2,2,2017-2018
+294,Las Palmas,Real Madrid,0,3,2017-2018
+295,Espanyol,Alaves,0,0,2017-2018
+296,Atletico de Madrid,Deportivo de La Coruna,1,0,2017-2018
+297,Leganes,Valencia,0,1,2017-2018
+298,Eibar,Real Sociedad,0,0,2017-2018
+299,Malaga,Villarreal,1,0,2017-2018
+300,Getafe,Betis,0,1,2017-2018
+301,Deportivo de La Coruna,Malaga,3,2,2017-2018
+302,Celta Vigo,Sevilla,4,0,2017-2018
+303,Betis,Eibar,2,0,2017-2018
+304,Barcelona,Leganes,3,1,2017-2018
+305,Alaves,Getafe,2,0,2017-2018
+306,Valencia,Espanyol,1,0,2017-2018
+307,Real Madrid,Atletico de Madrid,1,1,2017-2018
+308,Real Sociedad,Girona,5,0,2017-2018
+309,Levante,Las Palmas,2,1,2017-2018
+310,Villarreal,Athletic Club,1,3,2017-2018
+311,Girona,Betis,0,1,2017-2018
+312,Barcelona,Valencia,2,1,2017-2018
+313,Las Palmas,Real Sociedad,0,1,2017-2018
+314,Leganes,Celta Vigo,1,0,2017-2018
+315,Athletic Club,Deportivo de La Coruna,2,3,2017-2018
+316,Sevilla,Villarreal,2,2,2017-2018
+317,Atletico de Madrid,Levante,3,0,2017-2018
+318,Getafe,Espanyol,1,0,2017-2018
+319,Eibar,Alaves,0,1,2017-2018
+320,Malaga,Real Madrid,1,2,2017-2018
+321,Villarreal,Leganes,2,1,2017-2018
+322,Deportivo de La Coruna,Sevilla,0,0,2017-2018
+323,Celta Vigo,Barcelona,2,2,2017-2018
+324,Espanyol,Eibar,0,1,2017-2018
+325,Valencia,Getafe,1,2,2017-2018
+326,Real Madrid,Athletic Club,1,1,2017-2018
+327,Real Sociedad,Atletico de Madrid,3,0,2017-2018
+328,Levante,Malaga,1,0,2017-2018
+329,Alaves,Girona,1,2,2017-2018
+330,Betis,Las Palmas,1,0,2017-2018
+331,Leganes,Deportivo de La Coruna,0,0,2017-2018
+332,Celta Vigo,Valencia,1,1,2017-2018
+333,Eibar,Getafe,0,1,2017-2018
+334,Girona,Espanyol,0,2,2017-2018
+335,Malaga,Real Sociedad,2,0,2017-2018
+336,Las Palmas,Alaves,0,4,2017-2018
+337,Atletico de Madrid,Betis,0,0,2017-2018
+338,Athletic Club,Levante,1,3,2017-2018
+339,Sevilla,Real Madrid,3,2,2017-2018
+340,Barcelona,Villarreal,5,1,2017-2018
+341,Levante,Sevilla,2,1,2017-2018
+342,Villarreal,Celta Vigo,4,1,2017-2018
+343,Real Madrid,Leganes,2,1,2017-2018
+344,Real Sociedad,Athletic Club,3,1,2017-2018
+345,Espanyol,Las Palmas,1,1,2017-2018
+346,Deportivo de La Coruna,Barcelona,2,4,2017-2018
+347,Valencia,Eibar,0,0,2017-2018
+348,Getafe,Girona,1,1,2017-2018
+349,Alaves,Atletico de Madrid,0,1,2017-2018
+350,Betis,Malaga,2,1,2017-2018
+351,Sevilla,Real Sociedad,1,0,2017-2018
+352,Villarreal,Valencia,1,0,2017-2018
+353,Celta Vigo,Deportivo de La Coruna,1,1,2017-2018
+354,Athletic Club,Betis,2,0,2017-2018
+355,Girona,Eibar,1,4,2017-2018
+356,Las Palmas,Getafe,0,1,2017-2018
+357,Atletico de Madrid,Espanyol,0,2,2017-2018
+358,Malaga,Alaves,0,3,2017-2018
+359,Barcelona,Real Madrid,2,2,2017-2018
+360,Leganes,Levante,0,3,2017-2018
+361,Girona,Valencia,0,1,2017-2018
+362,Alaves,Athletic Club,3,1,2017-2018
+363,Deportivo de La Coruna,Villarreal,2,4,2017-2018
+364,Real Madrid,Celta Vigo,6,0,2017-2018
+365,Getafe,Atletico de Madrid,0,1,2017-2018
+366,Betis,Sevilla,2,2,2017-2018
+367,Eibar,Las Palmas,1,0,2017-2018
+368,Real Sociedad,Leganes,3,2,2017-2018
+369,Espanyol,Malaga,4,1,2017-2018
+370,Levante,Barcelona,5,4,2017-2018
+371,Celta Vigo,Levante,4,2,2017-2018
+372,Sevilla,Alaves,1,0,2017-2018
+373,Malaga,Getafe,0,1,2017-2018
+374,Las Palmas,Girona,1,2,2017-2018
+375,Leganes,Betis,3,2,2017-2018
+376,Villarreal,Real Madrid,2,2,2017-2018
+377,Athletic Club,Espanyol,0,1,2017-2018
+378,Barcelona,Real Sociedad,1,0,2017-2018
+379,Valencia,Deportivo de La Coruna,2,1,2017-2018
+380,Atletico de Madrid,Eibar,2,2,2017-2018
+381,Girona,Valladolid,0,0,2018-2019
+382,Betis,Levante,0,3,2018-2019
+383,Celta Vigo,Espanyol,1,1,2018-2019
+384,Villarreal,Real Sociedad,1,2,2018-2019
+385,Barcelona,Alaves,3,0,2018-2019
+386,Eibar,Huesca,1,2,2018-2019
+387,Rayo Vallecano,Sevilla,1,4,2018-2019
+388,Real Madrid,Getafe,2,0,2018-2019
+389,Valencia,Atletico de Madrid,1,1,2018-2019
+390,Athletic Club,Leganes,2,1,2018-2019
+391,Getafe,Eibar,2,0,2018-2019
+392,Leganes,Real Sociedad,2,2,2018-2019
+393,Alaves,Betis,0,0,2018-2019
+394,Atletico de Madrid,Rayo Vallecano,1,0,2018-2019
+395,Valladolid,Barcelona,0,1,2018-2019
+396,Espanyol,Valencia,2,0,2018-2019
+397,Sevilla,Villarreal,0,0,2018-2019
+398,Girona,Real Madrid,1,4,2018-2019
+399,Levante,Celta Vigo,1,2,2018-2019
+400,Athletic Club,Huesca,2,2,2018-2019
+401,Getafe,Valladolid,0,0,2018-2019
+402,Eibar,Real Sociedad,2,1,2018-2019
+403,Villarreal,Girona,0,1,2018-2019
+404,Celta Vigo,Atletico de Madrid,2,0,2018-2019
+405,Real Madrid,Leganes,4,1,2018-2019
+406,Levante,Valencia,2,2,2018-2019
+407,Alaves,Espanyol,2,1,2018-2019
+408,Barcelona,Huesca,8,2,2018-2019
+409,Betis,Sevilla,1,0,2018-2019
+410,Rayo Vallecano,Athletic Club,1,1,2018-2019
+411,Huesca,Rayo Vallecano,0,1,2018-2019
+412,Atletico de Madrid,Eibar,1,1,2018-2019
+413,Real Sociedad,Barcelona,1,2,2018-2019
+414,Valencia,Betis,0,0,2018-2019
+415,Athletic Club,Real Madrid,1,1,2018-2019
+416,Leganes,Villarreal,0,1,2018-2019
+417,Espanyol,Levante,1,0,2018-2019
+418,Valladolid,Alaves,0,1,2018-2019
+419,Sevilla,Getafe,0,2,2018-2019
+420,Girona,Celta Vigo,3,2,2018-2019
+421,Huesca,Real Sociedad,0,1,2018-2019
+422,Celta Vigo,Valladolid,3,3,2018-2019
+423,Eibar,Leganes,1,0,2018-2019
+424,Rayo Vallecano,Alaves,1,5,2018-2019
+425,Getafe,Atletico de Madrid,0,2,2018-2019
+426,Real Madrid,Espanyol,1,0,2018-2019
+427,Barcelona,Girona,2,2,2018-2019
+428,Levante,Sevilla,2,6,2018-2019
+429,Betis,Athletic Club,2,2,2018-2019
+430,Villarreal,Valencia,0,0,2018-2019
+431,Atletico de Madrid,Huesca,3,0,2018-2019
+432,Espanyol,Eibar,1,0,2018-2019
+433,Real Sociedad,Rayo Vallecano,2,2,2018-2019
+434,Athletic Club,Villarreal,0,3,2018-2019
+435,Leganes,Barcelona,2,1,2018-2019
+436,Valencia,Celta Vigo,1,1,2018-2019
+437,Sevilla,Real Madrid,3,0,2018-2019
+438,Alaves,Getafe,1,1,2018-2019
+439,Girona,Betis,0,1,2018-2019
+440,Valladolid,Levante,2,1,2018-2019
+441,Rayo Vallecano,Espanyol,2,2,2018-2019
+442,Eibar,Sevilla,1,3,2018-2019
+443,Real Sociedad,Valencia,0,1,2018-2019
+444,Real Madrid,Atletico de Madrid,0,0,2018-2019
+445,Barcelona,Athletic Club,1,1,2018-2019
+446,Betis,Leganes,1,0,2018-2019
+447,Levante,Alaves,2,1,2018-2019
+448,Huesca,Girona,1,1,2018-2019
+449,Villarreal,Valladolid,0,1,2018-2019
+450,Celta Vigo,Getafe,1,1,2018-2019
+451,Athletic Club,Real Sociedad,1,3,2018-2019
+452,Alaves,Real Madrid,1,0,2018-2019
+453,Getafe,Levante,0,1,2018-2019
+454,Leganes,Rayo Vallecano,1,0,2018-2019
+455,Girona,Eibar,2,3,2018-2019
+456,Atletico de Madrid,Betis,1,0,2018-2019
+457,Espanyol,Villarreal,3,1,2018-2019
+458,Valencia,Barcelona,1,1,2018-2019
+459,Sevilla,Celta Vigo,2,1,2018-2019
+460,Valladolid,Huesca,1,0,2018-2019
+461,Celta Vigo,Alaves,0,1,2018-2019
+462,Barcelona,Sevilla,4,2,2018-2019
+463,Villarreal,Atletico de Madrid,1,1,2018-2019
+464,Valencia,Leganes,1,1,2018-2019
+465,Real Madrid,Levante,1,2,2018-2019
+466,Betis,Valladolid,0,1,2018-2019
+467,Eibar,Athletic Club,1,1,2018-2019
+468,Huesca,Espanyol,0,2,2018-2019
+469,Rayo Vallecano,Getafe,1,2,2018-2019
+470,Real Sociedad,Girona,0,0,2018-2019
+471,Valladolid,Espanyol,1,1,2018-2019
+472,Athletic Club,Valencia,0,0,2018-2019
+473,Atletico de Madrid,Real Sociedad,2,0,2018-2019
+474,Celta Vigo,Eibar,4,0,2018-2019
+475,Girona,Rayo Vallecano,2,1,2018-2019
+476,Levante,Leganes,2,0,2018-2019
+477,Barcelona,Real Madrid,5,1,2018-2019
+478,Alaves,Villarreal,2,1,2018-2019
+479,Getafe,Betis,2,0,2018-2019
+480,Sevilla,Huesca,2,1,2018-2019
+481,Real Madrid,Valladolid,2,0,2018-2019
+482,Leganes,Atletico de Madrid,1,1,2018-2019
+483,Rayo Vallecano,Barcelona,2,3,2018-2019
+484,Valencia,Girona,0,1,2018-2019
+485,Betis,Celta Vigo,3,3,2018-2019
+486,Real Sociedad,Sevilla,0,0,2018-2019
+487,Eibar,Alaves,2,1,2018-2019
+488,Huesca,Getafe,1,1,2018-2019
+489,Villarreal,Levante,1,1,2018-2019
+490,Espanyol,Athletic Club,1,0,2018-2019
+491,Levante,Real Sociedad,1,3,2018-2019
+492,Getafe,Valencia,0,1,2018-2019
+493,Girona,Leganes,0,0,2018-2019
+494,Atletico de Madrid,Athletic Club,3,2,2018-2019
+495,Valladolid,Eibar,0,0,2018-2019
+496,Alaves,Huesca,2,1,2018-2019
+497,Barcelona,Betis,3,4,2018-2019
+498,Celta Vigo,Real Madrid,2,4,2018-2019
+499,Rayo Vallecano,Villarreal,2,2,2018-2019
+500,Sevilla,Espanyol,2,1,2018-2019
+501,Leganes,Alaves,1,0,2018-2019
+502,Atletico de Madrid,Barcelona,1,1,2018-2019
+503,Eibar,Real Madrid,3,0,2018-2019
+504,Huesca,Levante,2,2,2018-2019
+505,Valencia,Rayo Vallecano,3,0,2018-2019
+506,Athletic Club,Getafe,1,1,2018-2019
+507,Espanyol,Girona,1,3,2018-2019
+508,Sevilla,Valladolid,1,0,2018-2019
+509,Villarreal,Betis,2,1,2018-2019
+510,Real Sociedad,Celta Vigo,2,1,2018-2019
+511,Rayo Vallecano,Eibar,1,0,2018-2019
+512,Celta Vigo,Huesca,2,0,2018-2019
+513,Real Madrid,Valencia,2,0,2018-2019
+514,Getafe,Espanyol,3,0,2018-2019
+515,Valladolid,Leganes,2,4,2018-2019
+516,Alaves,Sevilla,1,1,2018-2019
+517,Barcelona,Villarreal,2,0,2018-2019
+518,Betis,Real Sociedad,1,0,2018-2019
+519,Girona,Atletico de Madrid,1,1,2018-2019
+520,Levante,Athletic Club,3,0,2018-2019
+521,Leganes,Getafe,1,1,2018-2019
+522,Atletico de Madrid,Alaves,3,0,2018-2019
+523,Espanyol,Barcelona,0,4,2018-2019
+524,Villarreal,Celta Vigo,2,3,2018-2019
+525,Valencia,Sevilla,1,1,2018-2019
+526,Betis,Rayo Vallecano,2,0,2018-2019
+527,Eibar,Levante,4,4,2018-2019
+528,Huesca,Real Madrid,0,1,2018-2019
+529,Real Sociedad,Valladolid,1,2,2018-2019
+530,Athletic Club,Girona,1,0,2018-2019
+531,Celta Vigo,Leganes,0,0,2018-2019
+532,Eibar,Valencia,1,1,2018-2019
+533,Getafe,Real Sociedad,1,0,2018-2019
+534,Valladolid,Atletico de Madrid,2,3,2018-2019
+535,Real Madrid,Rayo Vallecano,1,0,2018-2019
+536,Huesca,Villarreal,2,2,2018-2019
+537,Levante,Barcelona,0,5,2018-2019
+538,Espanyol,Betis,1,3,2018-2019
+539,Sevilla,Girona,2,0,2018-2019
+540,Alaves,Athletic Club,0,0,2018-2019
+541,Real Sociedad,Alaves,0,1,2018-2019
+542,Girona,Getafe,1,1,2018-2019
+543,Athletic Club,Valladolid,1,1,2018-2019
+544,Atletico de Madrid,Espanyol,1,0,2018-2019
+545,Barcelona,Celta Vigo,2,0,2018-2019
+546,Betis,Eibar,1,1,2018-2019
+547,Leganes,Sevilla,1,1,2018-2019
+548,Valencia,Huesca,2,1,2018-2019
+549,Rayo Vallecano,Levante,2,1,2018-2019
+550,Villarreal,Real Madrid,2,2,2018-2019
+551,Espanyol,Leganes,1,0,2018-2019
+552,Levante,Girona,2,2,2018-2019
+553,Alaves,Valencia,2,1,2018-2019
+554,Huesca,Betis,2,1,2018-2019
+555,Valladolid,Rayo Vallecano,0,1,2018-2019
+556,Eibar,Villarreal,0,0,2018-2019
+557,Real Madrid,Real Sociedad,0,2,2018-2019
+558,Sevilla,Atletico de Madrid,1,1,2018-2019
+559,Getafe,Barcelona,1,2,2018-2019
+560,Celta Vigo,Athletic Club,1,2,2018-2019
+561,Rayo Vallecano,Celta Vigo,4,2,2018-2019
+562,Valencia,Valladolid,1,1,2018-2019
+563,Girona,Alaves,1,1,2018-2019
+564,Villarreal,Getafe,1,2,2018-2019
+565,Leganes,Huesca,1,0,2018-2019
+566,Athletic Club,Sevilla,2,0,2018-2019
+567,Atletico de Madrid,Levante,1,0,2018-2019
+568,Barcelona,Eibar,3,0,2018-2019
+569,Betis,Real Madrid,1,2,2018-2019
+570,Real Sociedad,Espanyol,3,2,2018-2019
+571,Getafe,Alaves,4,0,2018-2019
+572,Celta Vigo,Valencia,1,2,2018-2019
+573,Real Madrid,Sevilla,2,0,2018-2019
+574,Huesca,Atletico de Madrid,0,3,2018-2019
+575,Barcelona,Leganes,3,1,2018-2019
+576,Betis,Girona,3,2,2018-2019
+577,Levante,Valladolid,2,0,2018-2019
+578,Rayo Vallecano,Real Sociedad,2,2,2018-2019
+579,Villarreal,Athletic Club,1,1,2018-2019
+580,Eibar,Espanyol,3,0,2018-2019
+581,Atletico de Madrid,Getafe,2,0,2018-2019
+582,Valencia,Villarreal,3,0,2018-2019
+583,Leganes,Eibar,2,2,2018-2019
+584,Sevilla,Levante,5,0,2018-2019
+585,Athletic Club,Betis,1,0,2018-2019
+586,Espanyol,Real Madrid,2,4,2018-2019
+587,Girona,Barcelona,0,2,2018-2019
+588,Valladolid,Celta Vigo,2,1,2018-2019
+589,Real Sociedad,Huesca,0,0,2018-2019
+590,Alaves,Rayo Vallecano,0,1,2018-2019
+591,Huesca,Valladolid,4,0,2018-2019
+592,Barcelona,Valencia,2,2,2018-2019
+593,Celta Vigo,Sevilla,1,0,2018-2019
+594,Real Sociedad,Athletic Club,2,1,2018-2019
+595,Levante,Getafe,0,0,2018-2019
+596,Eibar,Girona,3,0,2018-2019
+597,Real Madrid,Alaves,3,0,2018-2019
+598,Betis,Atletico de Madrid,1,0,2018-2019
+599,Villarreal,Espanyol,2,2,2018-2019
+600,Rayo Vallecano,Leganes,1,2,2018-2019
+601,Valladolid,Villarreal,0,0,2018-2019
+602,Atletico de Madrid,Real Madrid,1,3,2018-2019
+603,Espanyol,Rayo Vallecano,2,1,2018-2019
+604,Girona,Huesca,0,2,2018-2019
+605,Getafe,Celta Vigo,3,1,2018-2019
+606,Athletic Club,Barcelona,0,0,2018-2019
+607,Leganes,Betis,3,0,2018-2019
+608,Sevilla,Eibar,2,2,2018-2019
+609,Valencia,Real Sociedad,0,0,2018-2019
+610,Alaves,Levante,2,0,2018-2019
+611,Eibar,Getafe,2,2,2018-2019
+612,Barcelona,Valladolid,1,0,2018-2019
+613,Celta Vigo,Levante,1,4,2018-2019
+614,Rayo Vallecano,Atletico de Madrid,0,1,2018-2019
+615,Real Sociedad,Leganes,3,0,2018-2019
+616,Betis,Alaves,1,1,2018-2019
+617,Valencia,Espanyol,0,0,2018-2019
+618,Real Madrid,Girona,1,2,2018-2019
+619,Villarreal,Sevilla,3,0,2018-2019
+620,Huesca,Athletic Club,0,1,2018-2019
+621,Espanyol,Huesca,1,1,2018-2019
+622,Alaves,Celta Vigo,0,0,2018-2019
+623,Athletic Club,Eibar,1,0,2018-2019
+624,Getafe,Rayo Vallecano,2,1,2018-2019
+625,Sevilla,Barcelona,2,4,2018-2019
+626,Atletico de Madrid,Villarreal,2,0,2018-2019
+627,Leganes,Valencia,1,1,2018-2019
+628,Levante,Real Madrid,1,2,2018-2019
+629,Valladolid,Betis,0,2,2018-2019
+630,Girona,Real Sociedad,0,0,2018-2019
+631,Rayo Vallecano,Girona,0,2,2018-2019
+632,Espanyol,Valladolid,3,1,2018-2019
+633,Huesca,Sevilla,2,1,2018-2019
+634,Real Madrid,Barcelona,0,1,2018-2019
+635,Villarreal,Alaves,1,2,2018-2019
+636,Betis,Getafe,1,2,2018-2019
+637,Valencia,Athletic Club,2,0,2018-2019
+638,Real Sociedad,Atletico de Madrid,0,2,2018-2019
+639,Eibar,Celta Vigo,1,0,2018-2019
+640,Leganes,Levante,1,0,2018-2019
+641,Athletic Club,Espanyol,1,1,2018-2019
+642,Alaves,Eibar,1,1,2018-2019
+643,Atletico de Madrid,Leganes,1,0,2018-2019
+644,Barcelona,Rayo Vallecano,3,1,2018-2019
+645,Getafe,Huesca,2,1,2018-2019
+646,Girona,Valencia,2,3,2018-2019
+647,Levante,Villarreal,0,2,2018-2019
+648,Celta Vigo,Betis,0,1,2018-2019
+649,Valladolid,Real Madrid,1,4,2018-2019
+650,Sevilla,Real Sociedad,5,2,2018-2019
+651,Real Sociedad,Levante,1,1,2018-2019
+652,Athletic Club,Atletico de Madrid,2,0,2018-2019
+653,Huesca,Alaves,1,3,2018-2019
+654,Real Madrid,Celta Vigo,2,0,2018-2019
+655,Leganes,Girona,0,2,2018-2019
+656,Eibar,Valladolid,1,2,2018-2019
+657,Espanyol,Sevilla,0,1,2018-2019
+658,Betis,Barcelona,1,4,2018-2019
+659,Valencia,Getafe,0,0,2018-2019
+660,Villarreal,Rayo Vallecano,3,1,2018-2019
+661,Girona,Athletic Club,1,2,2018-2019
+662,Alaves,Atletico de Madrid,0,4,2018-2019
+663,Barcelona,Espanyol,2,0,2018-2019
+664,Celta Vigo,Villarreal,3,2,2018-2019
+665,Getafe,Leganes,0,2,2018-2019
+666,Sevilla,Valencia,0,1,2018-2019
+667,Rayo Vallecano,Betis,1,1,2018-2019
+668,Levante,Eibar,2,2,2018-2019
+669,Real Madrid,Huesca,3,2,2018-2019
+670,Valladolid,Real Sociedad,1,1,2018-2019
+671,Atletico de Madrid,Girona,2,0,2018-2019
+672,Espanyol,Getafe,1,1,2018-2019
+673,Villarreal,Barcelona,4,4,2018-2019
+674,Athletic Club,Levante,3,2,2018-2019
+675,Eibar,Rayo Vallecano,2,1,2018-2019
+676,Huesca,Celta Vigo,3,3,2018-2019
+677,Valencia,Real Madrid,2,1,2018-2019
+678,Leganes,Valladolid,1,0,2018-2019
+679,Sevilla,Alaves,2,0,2018-2019
+680,Real Sociedad,Betis,2,1,2018-2019
+681,Rayo Vallecano,Valencia,2,0,2018-2019
+682,Barcelona,Atletico de Madrid,2,0,2018-2019
+683,Real Madrid,Eibar,2,1,2018-2019
+684,Girona,Espanyol,1,2,2018-2019
+685,Alaves,Leganes,1,1,2018-2019
+686,Betis,Villarreal,2,1,2018-2019
+687,Celta Vigo,Real Sociedad,3,1,2018-2019
+688,Getafe,Athletic Club,1,0,2018-2019
+689,Levante,Huesca,2,2,2018-2019
+690,Valladolid,Sevilla,0,2,2018-2019
+691,Atletico de Madrid,Celta Vigo,2,0,2018-2019
+692,Espanyol,Alaves,2,1,2018-2019
+693,Huesca,Barcelona,0,0,2018-2019
+694,Sevilla,Betis,3,2,2018-2019
+695,Athletic Club,Rayo Vallecano,3,2,2018-2019
+696,Girona,Villarreal,0,1,2018-2019
+697,Real Sociedad,Eibar,1,1,2018-2019
+698,Valladolid,Getafe,2,2,2018-2019
+699,Valencia,Levante,3,1,2018-2019
+700,Leganes,Real Madrid,1,1,2018-2019
+701,Alaves,Valladolid,2,2,2018-2019
+702,Barcelona,Real Sociedad,2,1,2018-2019
+703,Celta Vigo,Girona,2,1,2018-2019
+704,Eibar,Atletico de Madrid,0,1,2018-2019
+705,Rayo Vallecano,Huesca,0,0,2018-2019
+706,Betis,Valencia,1,2,2018-2019
+707,Getafe,Sevilla,3,0,2018-2019
+708,Real Madrid,Athletic Club,3,0,2018-2019
+709,Levante,Espanyol,2,2,2018-2019
+710,Villarreal,Leganes,2,1,2018-2019
+711,Alaves,Barcelona,0,2,2018-2019
+712,Huesca,Eibar,2,0,2018-2019
+713,Valladolid,Girona,1,0,2018-2019
+714,Atletico de Madrid,Valencia,3,2,2018-2019
+715,Leganes,Athletic Club,0,1,2018-2019
+716,Levante,Betis,4,0,2018-2019
+717,Espanyol,Celta Vigo,1,1,2018-2019
+718,Getafe,Real Madrid,0,0,2018-2019
+719,Real Sociedad,Villarreal,0,1,2018-2019
+720,Sevilla,Rayo Vallecano,5,0,2018-2019
+721,Atletico de Madrid,Valladolid,1,0,2018-2019
+722,Barcelona,Levante,1,0,2018-2019
+723,Athletic Club,Alaves,1,1,2018-2019
+724,Leganes,Celta Vigo,0,0,2018-2019
+725,Girona,Sevilla,1,0,2018-2019
+726,Rayo Vallecano,Real Madrid,1,0,2018-2019
+727,Valencia,Eibar,0,1,2018-2019
+728,Real Sociedad,Getafe,2,1,2018-2019
+729,Villarreal,Huesca,1,1,2018-2019
+730,Betis,Espanyol,1,1,2018-2019
+731,Sevilla,Leganes,0,3,2018-2019
+732,Alaves,Real Sociedad,0,1,2018-2019
+733,Levante,Rayo Vallecano,4,1,2018-2019
+734,Espanyol,Atletico de Madrid,3,0,2018-2019
+735,Celta Vigo,Barcelona,2,0,2018-2019
+736,Getafe,Girona,2,0,2018-2019
+737,Huesca,Valencia,2,6,2018-2019
+738,Real Madrid,Villarreal,3,2,2018-2019
+739,Valladolid,Athletic Club,1,0,2018-2019
+740,Eibar,Betis,1,0,2018-2019
+741,Athletic Club,Celta Vigo,3,1,2018-2019
+742,Atletico de Madrid,Sevilla,1,1,2018-2019
+743,Barcelona,Getafe,2,0,2018-2019
+744,Betis,Huesca,2,1,2018-2019
+745,Girona,Levante,1,2,2018-2019
+746,Rayo Vallecano,Valladolid,1,2,2018-2019
+747,Valencia,Alaves,3,1,2018-2019
+748,Villarreal,Eibar,1,0,2018-2019
+749,Leganes,Espanyol,0,2,2018-2019
+750,Real Sociedad,Real Madrid,3,1,2018-2019
+751,Alaves,Girona,2,1,2018-2019
+752,Celta Vigo,Rayo Vallecano,2,2,2018-2019
+753,Espanyol,Real Sociedad,2,0,2018-2019
+754,Getafe,Villarreal,2,2,2018-2019
+755,Huesca,Leganes,2,1,2018-2019
+756,Sevilla,Athletic Club,2,0,2018-2019
+757,Levante,Atletico de Madrid,2,2,2018-2019
+758,Valladolid,Valencia,0,2,2018-2019
+759,Eibar,Barcelona,2,2,2018-2019
+760,Real Madrid,Betis,0,2,2018-2019
+761,Athletic Club,Barcelona,1,0,2019-2020
+762,Celta Vigo,Real Madrid,1,3,2019-2020
+763,Valencia,Real Sociedad,1,1,2019-2020
+764,Leganes,Osasuna,0,1,2019-2020
+765,Villarreal,Granada,4,4,2019-2020
+766,Mallorca,Eibar,2,1,2019-2020
+767,Alaves,Levante,1,0,2019-2020
+768,Espanyol,Sevilla,0,2,2019-2020
+769,Atletico de Madrid,Getafe,1,0,2019-2020
+770,Betis,Valladolid,1,2,2019-2020
+771,Granada,Sevilla,0,1,2019-2020
+772,Levante,Villarreal,2,1,2019-2020
+773,Osasuna,Eibar,0,0,2019-2020
+774,Real Madrid,Valladolid,1,1,2019-2020
+775,Celta Vigo,Valencia,1,0,2019-2020
+776,Getafe,Athletic Club,1,1,2019-2020
+777,Alaves,Espanyol,0,0,2019-2020
+778,Mallorca,Real Sociedad,0,1,2019-2020
+779,Barcelona,Betis,5,2,2019-2020
+780,Leganes,Atletico de Madrid,0,1,2019-2020
+781,Sevilla,Celta Vigo,1,1,2019-2020
+782,Athletic Club,Real Sociedad,2,0,2019-2020
+783,Osasuna,Barcelona,2,2,2019-2020
+784,Getafe,Alaves,1,1,2019-2020
+785,Levante,Valladolid,2,0,2019-2020
+786,Betis,Leganes,2,1,2019-2020
+787,Valencia,Mallorca,2,0,2019-2020
+788,Atletico de Madrid,Eibar,3,2,2019-2020
+789,Espanyol,Granada,0,3,2019-2020
+790,Villarreal,Real Madrid,2,2,2019-2020
+791,Mallorca,Athletic Club,0,0,2019-2020
+792,Barcelona,Valencia,5,2,2019-2020
+793,Leganes,Villarreal,0,3,2019-2020
+794,Real Madrid,Levante,3,2,2019-2020
+795,Real Sociedad,Atletico de Madrid,2,0,2019-2020
+796,Alaves,Sevilla,0,1,2019-2020
+797,Betis,Getafe,1,1,2019-2020
+798,Celta Vigo,Granada,0,2,2019-2020
+799,Eibar,Espanyol,1,2,2019-2020
+800,Valladolid,Osasuna,1,1,2019-2020
+801,Osasuna,Betis,0,0,2019-2020
+802,Atletico de Madrid,Celta Vigo,0,0,2019-2020
+803,Granada,Barcelona,2,0,2019-2020
+804,Levante,Eibar,0,0,2019-2020
+805,Villarreal,Valladolid,2,0,2019-2020
+806,Athletic Club,Alaves,2,0,2019-2020
+807,Espanyol,Real Sociedad,1,3,2019-2020
+808,Getafe,Mallorca,4,2,2019-2020
+809,Sevilla,Real Madrid,0,1,2019-2020
+810,Valencia,Leganes,1,1,2019-2020
+811,Barcelona,Villarreal,2,1,2019-2020
+812,Betis,Levante,3,1,2019-2020
+813,Valladolid,Granada,1,1,2019-2020
+814,Leganes,Athletic Club,1,1,2019-2020
+815,Mallorca,Atletico de Madrid,0,2,2019-2020
+816,Real Madrid,Osasuna,2,0,2019-2020
+817,Valencia,Getafe,3,3,2019-2020
+818,Celta Vigo,Espanyol,1,1,2019-2020
+819,Eibar,Sevilla,3,2,2019-2020
+820,Real Sociedad,Alaves,3,0,2019-2020
+821,Villarreal,Betis,5,1,2019-2020
+822,Athletic Club,Valencia,0,1,2019-2020
+823,Atletico de Madrid,Real Madrid,0,0,2019-2020
+824,Getafe,Barcelona,0,2,2019-2020
+825,Granada,Leganes,1,0,2019-2020
+826,Alaves,Mallorca,2,0,2019-2020
+827,Eibar,Celta Vigo,2,0,2019-2020
+828,Espanyol,Valladolid,0,2,2019-2020
+829,Levante,Osasuna,1,1,2019-2020
+830,Sevilla,Real Sociedad,3,2,2019-2020
+831,Betis,Eibar,1,1,2019-2020
+832,Leganes,Levante,1,2,2019-2020
+833,Osasuna,Villarreal,2,1,2019-2020
+834,Real Madrid,Granada,4,2,2019-2020
+835,Valencia,Alaves,2,1,2019-2020
+836,Barcelona,Sevilla,4,0,2019-2020
+837,Celta Vigo,Athletic Club,1,0,2019-2020
+838,Mallorca,Espanyol,2,0,2019-2020
+839,Real Sociedad,Getafe,1,2,2019-2020
+840,Valladolid,Atletico de Madrid,0,0,2019-2020
+841,Granada,Osasuna,1,0,2019-2020
+842,Atletico de Madrid,Valencia,1,1,2019-2020
+843,Eibar,Barcelona,0,3,2019-2020
+844,Getafe,Leganes,2,0,2019-2020
+845,Mallorca,Real Madrid,1,0,2019-2020
+846,Alaves,Celta Vigo,2,0,2019-2020
+847,Athletic Club,Valladolid,1,1,2019-2020
+848,Espanyol,Villarreal,0,1,2019-2020
+849,Real Sociedad,Betis,3,1,2019-2020
+850,Sevilla,Levante,1,0,2019-2020
+851,Villarreal,Alaves,4,1,2019-2020
+852,Atletico de Madrid,Athletic Club,2,0,2019-2020
+853,Leganes,Mallorca,1,0,2019-2020
+854,Valladolid,Eibar,2,0,2019-2020
+855,Celta Vigo,Real Sociedad,0,1,2019-2020
+856,Granada,Betis,1,0,2019-2020
+857,Levante,Espanyol,0,1,2019-2020
+858,Osasuna,Valencia,3,1,2019-2020
+859,Sevilla,Getafe,2,0,2019-2020
+860,Barcelona,Real Madrid,0,0,2019-2020
+861,Alaves,Atletico de Madrid,1,1,2019-2020
+862,Barcelona,Valladolid,5,1,2019-2020
+863,Athletic Club,Espanyol,3,0,2019-2020
+864,Betis,Celta Vigo,2,1,2019-2020
+865,Real Madrid,Leganes,5,0,2019-2020
+866,Real Sociedad,Levante,1,2,2019-2020
+867,Valencia,Sevilla,1,1,2019-2020
+868,Eibar,Villarreal,2,1,2019-2020
+869,Getafe,Granada,3,1,2019-2020
+870,Mallorca,Osasuna,2,2,2019-2020
+871,Espanyol,Valencia,1,2,2019-2020
+872,Levante,Barcelona,3,1,2019-2020
+873,Real Madrid,Betis,0,0,2019-2020
+874,Sevilla,Atletico de Madrid,1,1,2019-2020
+875,Celta Vigo,Getafe,0,1,2019-2020
+876,Granada,Real Sociedad,1,2,2019-2020
+877,Leganes,Eibar,1,2,2019-2020
+878,Osasuna,Alaves,4,2,2019-2020
+879,Villarreal,Athletic Club,0,0,2019-2020
+880,Valladolid,Mallorca,3,0,2019-2020
+881,Real Sociedad,Leganes,1,1,2019-2020
+882,Alaves,Valladolid,3,0,2019-2020
+883,Barcelona,Celta Vigo,4,1,2019-2020
+884,Eibar,Real Madrid,0,4,2019-2020
+885,Valencia,Granada,2,0,2019-2020
+886,Athletic Club,Levante,2,1,2019-2020
+887,Atletico de Madrid,Espanyol,3,1,2019-2020
+888,Betis,Sevilla,1,2,2019-2020
+889,Getafe,Osasuna,0,0,2019-2020
+890,Mallorca,Villarreal,3,1,2019-2020
+891,Levante,Mallorca,2,1,2019-2020
+892,Betis,Valencia,2,1,2019-2020
+893,Granada,Atletico de Madrid,1,1,2019-2020
+894,Leganes,Barcelona,1,2,2019-2020
+895,Real Madrid,Real Sociedad,3,1,2019-2020
+896,Eibar,Alaves,0,2,2019-2020
+897,Espanyol,Getafe,1,1,2019-2020
+898,Osasuna,Athletic Club,1,2,2019-2020
+899,Villarreal,Celta Vigo,1,3,2019-2020
+900,Valladolid,Sevilla,0,1,2019-2020
+901,Celta Vigo,Valladolid,0,0,2019-2020
+902,Alaves,Real Madrid,1,2,2019-2020
+903,Mallorca,Betis,1,2,2019-2020
+904,Real Sociedad,Eibar,4,1,2019-2020
+905,Valencia,Villarreal,2,1,2019-2020
+906,Athletic Club,Granada,2,0,2019-2020
+907,Atletico de Madrid,Barcelona,0,1,2019-2020
+908,Espanyol,Osasuna,2,4,2019-2020
+909,Getafe,Levante,4,0,2019-2020
+910,Sevilla,Leganes,1,0,2019-2020
+911,Villarreal,Atletico de Madrid,0,0,2019-2020
+912,Barcelona,Mallorca,5,2,2019-2020
+913,Granada,Alaves,3,0,2019-2020
+914,Levante,Valencia,2,4,2019-2020
+915,Real Madrid,Espanyol,2,0,2019-2020
+916,Betis,Athletic Club,3,2,2019-2020
+917,Eibar,Getafe,0,1,2019-2020
+918,Leganes,Celta Vigo,3,2,2019-2020
+919,Osasuna,Sevilla,1,1,2019-2020
+920,Valladolid,Real Sociedad,0,0,2019-2020
+921,Alaves,Leganes,1,1,2019-2020
+922,Athletic Club,Eibar,0,0,2019-2020
+923,Atletico de Madrid,Osasuna,2,0,2019-2020
+924,Granada,Levante,1,2,2019-2020
+925,Real Sociedad,Barcelona,2,2,2019-2020
+926,Celta Vigo,Mallorca,2,2,2019-2020
+927,Espanyol,Betis,2,2,2019-2020
+928,Getafe,Valladolid,2,0,2019-2020
+929,Sevilla,Villarreal,1,2,2019-2020
+930,Valencia,Real Madrid,1,1,2019-2020
+931,Eibar,Granada,3,0,2019-2020
+932,Barcelona,Alaves,4,1,2019-2020
+933,Mallorca,Sevilla,0,2,2019-2020
+934,Villarreal,Getafe,1,0,2019-2020
+935,Valladolid,Valencia,1,1,2019-2020
+936,Betis,Atletico de Madrid,1,2,2019-2020
+937,Leganes,Espanyol,2,0,2019-2020
+938,Levante,Celta Vigo,3,1,2019-2020
+939,Osasuna,Real Sociedad,3,4,2019-2020
+940,Real Madrid,Athletic Club,0,0,2019-2020
+941,Sevilla,Athletic Club,1,1,2019-2020
+942,Valladolid,Leganes,2,2,2019-2020
+943,Atletico de Madrid,Levante,2,1,2019-2020
+944,Espanyol,Barcelona,2,2,2019-2020
+945,Getafe,Real Madrid,0,3,2019-2020
+946,Valencia,Eibar,1,0,2019-2020
+947,Alaves,Betis,1,1,2019-2020
+948,Celta Vigo,Osasuna,1,1,2019-2020
+949,Granada,Mallorca,1,0,2019-2020
+950,Real Sociedad,Villarreal,1,2,2019-2020
+951,Leganes,Getafe,0,3,2019-2020
+952,Eibar,Atletico de Madrid,2,0,2019-2020
+953,Levante,Alaves,0,1,2019-2020
+954,Osasuna,Valladolid,0,0,2019-2020
+955,Real Madrid,Sevilla,2,1,2019-2020
+956,Athletic Club,Celta Vigo,1,1,2019-2020
+957,Barcelona,Granada,1,0,2019-2020
+958,Betis,Real Sociedad,3,0,2019-2020
+959,Mallorca,Valencia,4,1,2019-2020
+960,Villarreal,Espanyol,1,2,2019-2020
+961,Osasuna,Levante,2,0,2019-2020
+962,Alaves,Villarreal,1,2,2019-2020
+963,Espanyol,Athletic Club,1,1,2019-2020
+964,Sevilla,Granada,2,0,2019-2020
+965,Valencia,Barcelona,2,0,2019-2020
+966,Atletico de Madrid,Leganes,0,0,2019-2020
+967,Celta Vigo,Eibar,0,0,2019-2020
+968,Getafe,Betis,1,0,2019-2020
+969,Real Sociedad,Mallorca,3,0,2019-2020
+970,Valladolid,Real Madrid,0,1,2019-2020
+971,Granada,Espanyol,2,1,2019-2020
+972,Mallorca,Valladolid,0,1,2019-2020
+973,Real Madrid,Atletico de Madrid,1,0,2019-2020
+974,Valencia,Celta Vigo,1,0,2019-2020
+975,Athletic Club,Getafe,0,2,2019-2020
+976,Barcelona,Levante,2,1,2019-2020
+977,Eibar,Betis,1,1,2019-2020
+978,Leganes,Real Sociedad,2,1,2019-2020
+979,Sevilla,Alaves,1,1,2019-2020
+980,Villarreal,Osasuna,3,1,2019-2020
+981,Alaves,Eibar,2,1,2019-2020
+982,Atletico de Madrid,Granada,1,0,2019-2020
+983,Getafe,Valencia,3,0,2019-2020
+984,Levante,Leganes,2,0,2019-2020
+985,Valladolid,Villarreal,1,1,2019-2020
+986,Betis,Barcelona,2,3,2019-2020
+987,Celta Vigo,Sevilla,2,1,2019-2020
+988,Espanyol,Mallorca,1,0,2019-2020
+989,Osasuna,Real Madrid,1,4,2019-2020
+990,Real Sociedad,Athletic Club,2,1,2019-2020
+991,Valencia,Atletico de Madrid,2,2,2019-2020
+992,Barcelona,Getafe,2,1,2019-2020
+993,Granada,Valladolid,2,1,2019-2020
+994,Mallorca,Alaves,1,0,2019-2020
+995,Villarreal,Levante,2,1,2019-2020
+996,Athletic Club,Osasuna,0,1,2019-2020
+997,Leganes,Betis,0,0,2019-2020
+998,Real Madrid,Celta Vigo,2,2,2019-2020
+999,Sevilla,Espanyol,2,2,2019-2020
+1000,Eibar,Real Sociedad,1,2,2019-2020
+1001,Betis,Mallorca,3,3,2019-2020
+1002,Barcelona,Eibar,5,0,2019-2020
+1003,Celta Vigo,Leganes,1,0,2019-2020
+1004,Levante,Real Madrid,1,0,2019-2020
+1005,Real Sociedad,Valencia,3,0,2019-2020
+1006,Alaves,Athletic Club,2,1,2019-2020
+1007,Atletico de Madrid,Villarreal,3,1,2019-2020
+1008,Getafe,Sevilla,0,3,2019-2020
+1009,Osasuna,Granada,0,3,2019-2020
+1010,Valladolid,Espanyol,2,1,2019-2020
+1011,Real Sociedad,Valladolid,1,0,2019-2020
+1012,Eibar,Levante,3,0,2019-2020
+1013,Granada,Celta Vigo,0,0,2019-2020
+1014,Leganes,Alaves,1,1,2019-2020
+1015,Valencia,Betis,2,1,2019-2020
+1016,Athletic Club,Villarreal,1,0,2019-2020
+1017,Espanyol,Atletico de Madrid,1,1,2019-2020
+1018,Mallorca,Getafe,0,1,2019-2020
+1019,Real Madrid,Barcelona,2,0,2019-2020
+1020,Sevilla,Osasuna,3,2,2019-2020
+1021,Alaves,Valencia,1,1,2019-2020
+1022,Atletico de Madrid,Sevilla,2,2,2019-2020
+1023,Barcelona,Real Sociedad,1,0,2019-2020
+1024,Eibar,Mallorca,1,2,2019-2020
+1025,Getafe,Celta Vigo,0,0,2019-2020
+1026,Betis,Real Madrid,2,1,2019-2020
+1027,Levante,Granada,1,1,2019-2020
+1028,Osasuna,Espanyol,1,0,2019-2020
+1029,Villarreal,Leganes,1,2,2019-2020
+1030,Valladolid,Athletic Club,1,4,2019-2020
+1031,Sevilla,Betis,2,0,2019-2020
+1032,Granada,Getafe,2,1,2019-2020
+1033,Valencia,Levante,1,1,2019-2020
+1034,Celta Vigo,Villarreal,0,1,2019-2020
+1035,Espanyol,Alaves,2,0,2019-2020
+1036,Leganes,Valladolid,1,2,2019-2020
+1037,Mallorca,Barcelona,0,4,2019-2020
+1038,Athletic Club,Atletico de Madrid,1,1,2019-2020
+1039,Real Madrid,Eibar,3,1,2019-2020
+1040,Real Sociedad,Osasuna,1,1,2019-2020
+1041,Betis,Granada,2,2,2019-2020
+1042,Levante,Sevilla,1,1,2019-2020
+1043,Barcelona,Leganes,2,0,2019-2020
+1044,Getafe,Espanyol,0,0,2019-2020
+1045,Villarreal,Mallorca,1,0,2019-2020
+1046,Eibar,Athletic Club,2,2,2019-2020
+1047,Osasuna,Atletico de Madrid,0,5,2019-2020
+1048,Valladolid,Celta Vigo,0,0,2019-2020
+1049,Alaves,Real Sociedad,2,0,2019-2020
+1050,Real Madrid,Valencia,3,0,2019-2020
+1051,Granada,Villarreal,0,1,2019-2020
+1052,Mallorca,Leganes,1,1,2019-2020
+1053,Sevilla,Barcelona,0,0,2019-2020
+1054,Athletic Club,Betis,1,0,2019-2020
+1055,Atletico de Madrid,Valladolid,1,0,2019-2020
+1056,Espanyol,Levante,1,3,2019-2020
+1057,Getafe,Eibar,1,1,2019-2020
+1058,Celta Vigo,Alaves,6,0,2019-2020
+1059,Real Sociedad,Real Madrid,1,2,2019-2020
+1060,Valencia,Osasuna,2,0,2019-2020
+1061,Leganes,Granada,0,0,2019-2020
+1062,Villarreal,Sevilla,2,2,2019-2020
+1063,Barcelona,Athletic Club,1,0,2019-2020
+1064,Levante,Atletico de Madrid,0,1,2019-2020
+1065,Valladolid,Getafe,1,1,2019-2020
+1066,Alaves,Osasuna,0,1,2019-2020
+1067,Real Madrid,Mallorca,2,0,2019-2020
+1068,Real Sociedad,Celta Vigo,0,1,2019-2020
+1069,Betis,Espanyol,1,0,2019-2020
+1070,Eibar,Valencia,1,0,2019-2020
+1071,Sevilla,Valladolid,1,1,2019-2020
+1072,Athletic Club,Mallorca,3,1,2019-2020
+1073,Atletico de Madrid,Alaves,2,1,2019-2020
+1074,Celta Vigo,Barcelona,2,2,2019-2020
+1075,Osasuna,Leganes,2,1,2019-2020
+1076,Espanyol,Real Madrid,0,1,2019-2020
+1077,Granada,Eibar,1,2,2019-2020
+1078,Levante,Betis,4,2,2019-2020
+1079,Villarreal,Valencia,2,0,2019-2020
+1080,Getafe,Real Sociedad,2,1,2019-2020
+1081,Barcelona,Atletico de Madrid,2,2,2019-2020
+1082,Leganes,Sevilla,0,3,2019-2020
+1083,Mallorca,Celta Vigo,5,1,2019-2020
+1084,Alaves,Granada,0,2,2019-2020
+1085,Betis,Villarreal,0,2,2019-2020
+1086,Valencia,Athletic Club,0,2,2019-2020
+1087,Valladolid,Levante,0,0,2019-2020
+1088,Eibar,Osasuna,0,2,2019-2020
+1089,Real Madrid,Getafe,1,0,2019-2020
+1090,Real Sociedad,Espanyol,2,1,2019-2020
+1091,Atletico de Madrid,Mallorca,3,0,2019-2020
+1092,Celta Vigo,Betis,1,1,2019-2020
+1093,Granada,Valencia,2,2,2019-2020
+1094,Valladolid,Alaves,1,0,2019-2020
+1095,Athletic Club,Real Madrid,0,1,2019-2020
+1096,Espanyol,Leganes,0,1,2019-2020
+1097,Osasuna,Getafe,0,0,2019-2020
+1098,Villarreal,Barcelona,1,4,2019-2020
+1099,Levante,Real Sociedad,1,1,2019-2020
+1100,Sevilla,Eibar,1,0,2019-2020
+1101,Celta Vigo,Atletico de Madrid,1,1,2019-2020
+1102,Valencia,Valladolid,2,1,2019-2020
+1103,Barcelona,Espanyol,1,0,2019-2020
+1104,Betis,Osasuna,3,0,2019-2020
+1105,Getafe,Villarreal,1,3,2019-2020
+1106,Athletic Club,Sevilla,1,2,2019-2020
+1107,Eibar,Leganes,0,0,2019-2020
+1108,Mallorca,Levante,2,0,2019-2020
+1109,Real Madrid,Alaves,2,0,2019-2020
+1110,Real Sociedad,Granada,2,3,2019-2020
+1111,Atletico de Madrid,Betis,1,0,2019-2020
+1112,Osasuna,Celta Vigo,2,1,2019-2020
+1113,Valladolid,Barcelona,0,1,2019-2020
+1114,Espanyol,Eibar,0,2,2019-2020
+1115,Leganes,Valencia,1,0,2019-2020
+1116,Levante,Athletic Club,1,2,2019-2020
+1117,Sevilla,Mallorca,2,0,2019-2020
+1118,Alaves,Getafe,0,0,2019-2020
+1119,Granada,Real Madrid,1,2,2019-2020
+1120,Villarreal,Real Sociedad,1,2,2019-2020
+1121,Athletic Club,Leganes,0,2,2019-2020
+1122,Barcelona,Osasuna,1,2,2019-2020
+1123,Betis,Alaves,1,2,2019-2020
+1124,Celta Vigo,Levante,2,3,2019-2020
+1125,Eibar,Valladolid,3,1,2019-2020
+1126,Getafe,Atletico de Madrid,0,2,2019-2020
+1127,Mallorca,Granada,1,2,2019-2020
+1128,Real Madrid,Villarreal,2,1,2019-2020
+1129,Real Sociedad,Sevilla,0,0,2019-2020
+1130,Valencia,Espanyol,1,0,2019-2020
+1131,Alaves,Barcelona,0,5,2019-2020
+1132,Atletico de Madrid,Real Sociedad,1,1,2019-2020
+1133,Espanyol,Celta Vigo,0,0,2019-2020
+1134,Granada,Athletic Club,4,0,2019-2020
+1135,Leganes,Real Madrid,2,2,2019-2020
+1136,Levante,Getafe,1,0,2019-2020
+1137,Osasuna,Mallorca,2,2,2019-2020
+1138,Sevilla,Valencia,1,0,2019-2020
+1139,Villarreal,Eibar,4,0,2019-2020
+1140,Valladolid,Betis,2,0,2019-2020
+1141,Granada,Athletic Club,2,0,2020-2021
+1142,Eibar,Celta Vigo,0,0,2020-2021
+1143,Cadiz,Osasuna,0,2,2020-2021
+1144,Valladolid,Real Sociedad,1,1,2020-2021
+1145,Villarreal,Huesca,1,1,2020-2021
+1146,Valencia,Levante,4,2,2020-2021
+1147,Alaves,Betis,0,1,2020-2021
+1148,Atletico de Madrid,Sevilla,2,0,2020-2021
+1149,Real Madrid,Getafe,2,0,2020-2021
+1150,Barcelona,Elche,3,0,2020-2021
+1151,Getafe,Osasuna,1,0,2020-2021
+1152,Celta Vigo,Valencia,2,1,2020-2021
+1153,Villarreal,Eibar,2,1,2020-2021
+1154,Huesca,Cadiz,0,2,2020-2021
+1155,Granada,Alaves,2,1,2020-2021
+1156,Real Sociedad,Real Madrid,0,0,2020-2021
+1157,Betis,Valladolid,2,0,2020-2021
+1158,Athletic Club,Barcelona,2,3,2020-2021
+1159,Levante,Atletico de Madrid,1,1,2020-2021
+1160,Sevilla,Elche,2,0,2020-2021
+1161,Alaves,Getafe,0,0,2020-2021
+1162,Betis,Real Madrid,2,3,2020-2021
+1163,Valencia,Huesca,1,1,2020-2021
+1164,Elche,Real Sociedad,0,3,2020-2021
+1165,Atletico de Madrid,Granada,6,1,2020-2021
+1166,Barcelona,Villarreal,4,0,2020-2021
+1167,Eibar,Athletic Club,1,2,2020-2021
+1168,Cadiz,Sevilla,1,3,2020-2021
+1169,Osasuna,Levante,1,3,2020-2021
+1170,Valladolid,Celta Vigo,1,1,2020-2021
+1171,Getafe,Betis,3,0,2020-2021
+1172,Real Sociedad,Valencia,0,1,2020-2021
+1173,Eibar,Elche,0,1,2020-2021
+1174,Huesca,Atletico de Madrid,0,0,2020-2021
+1175,Real Madrid,Valladolid,1,0,2020-2021
+1176,Villarreal,Alaves,3,1,2020-2021
+1177,Athletic Club,Cadiz,0,1,2020-2021
+1178,Celta Vigo,Barcelona,0,3,2020-2021
+1179,Sevilla,Levante,1,0,2020-2021
+1180,Granada,Osasuna,2,0,2020-2021
+1181,Atletico de Madrid,Villarreal,0,0,2020-2021
+1182,Real Sociedad,Getafe,3,0,2020-2021
+1183,Valencia,Betis,0,2,2020-2021
+1184,Valladolid,Eibar,1,2,2020-2021
+1185,Elche,Huesca,0,0,2020-2021
+1186,Alaves,Athletic Club,1,0,2020-2021
+1187,Barcelona,Sevilla,1,1,2020-2021
+1188,Cadiz,Granada,1,1,2020-2021
+1189,Levante,Real Madrid,0,2,2020-2021
+1190,Osasuna,Celta Vigo,2,0,2020-2021
+1191,Celta Vigo,Atletico de Madrid,0,2,2020-2021
+1192,Getafe,Barcelona,1,0,2020-2021
+1193,Granada,Sevilla,1,0,2020-2021
+1194,Real Madrid,Cadiz,0,1,2020-2021
+1195,Alaves,Elche,0,2,2020-2021
+1196,Athletic Club,Levante,2,0,2020-2021
+1197,Betis,Real Sociedad,0,3,2020-2021
+1198,Eibar,Osasuna,0,0,2020-2021
+1199,Huesca,Valladolid,2,2,2020-2021
+1200,Villarreal,Valencia,2,1,2020-2021
+1201,Elche,Valencia,2,1,2020-2021
+1202,Atletico de Madrid,Betis,2,0,2020-2021
+1203,Barcelona,Real Madrid,1,3,2020-2021
+1204,Osasuna,Athletic Club,1,0,2020-2021
+1205,Sevilla,Eibar,0,1,2020-2021
+1206,Getafe,Granada,0,1,2020-2021
+1207,Cadiz,Villarreal,0,0,2020-2021
+1208,Real Sociedad,Huesca,4,1,2020-2021
+1209,Valladolid,Alaves,0,2,2020-2021
+1210,Levante,Celta Vigo,1,1,2020-2021
+1211,Eibar,Cadiz,0,2,2020-2021
+1212,Alaves,Barcelona,1,1,2020-2021
+1213,Athletic Club,Sevilla,2,1,2020-2021
+1214,Osasuna,Atletico de Madrid,1,3,2020-2021
+1215,Real Madrid,Huesca,4,1,2020-2021
+1216,Betis,Elche,3,1,2020-2021
+1217,Celta Vigo,Real Sociedad,1,4,2020-2021
+1218,Granada,Levante,1,1,2020-2021
+1219,Valencia,Getafe,2,2,2020-2021
+1220,Villarreal,Valladolid,2,0,2020-2021
+1221,Elche,Celta Vigo,1,1,2020-2021
+1222,Atletico de Madrid,Cadiz,4,0,2020-2021
+1223,Barcelona,Betis,5,2,2020-2021
+1224,Huesca,Eibar,1,1,2020-2021
+1225,Sevilla,Osasuna,1,0,2020-2021
+1226,Getafe,Villarreal,1,3,2020-2021
+1227,Levante,Alaves,1,1,2020-2021
+1228,Real Sociedad,Granada,2,0,2020-2021
+1229,Valencia,Real Madrid,4,1,2020-2021
+1230,Valladolid,Athletic Club,2,1,2020-2021
+1231,Osasuna,Huesca,1,1,2020-2021
+1232,Atletico de Madrid,Barcelona,1,0,2020-2021
+1233,Levante,Elche,1,1,2020-2021
+1234,Sevilla,Celta Vigo,4,2,2020-2021
+1235,Villarreal,Real Madrid,1,1,2020-2021
+1236,Alaves,Valencia,2,2,2020-2021
+1237,Eibar,Getafe,0,0,2020-2021
+1238,Cadiz,Real Sociedad,0,1,2020-2021
+1239,Granada,Valladolid,1,3,2020-2021
+1240,Athletic Club,Betis,4,0,2020-2021
+1241,Valladolid,Levante,1,1,2020-2021
+1242,Huesca,Sevilla,0,1,2020-2021
+1243,Real Madrid,Alaves,1,2,2020-2021
+1244,Valencia,Atletico de Madrid,0,1,2020-2021
+1245,Elche,Cadiz,1,1,2020-2021
+1246,Barcelona,Osasuna,4,0,2020-2021
+1247,Celta Vigo,Granada,3,1,2020-2021
+1248,Getafe,Athletic Club,1,1,2020-2021
+1249,Real Sociedad,Villarreal,1,1,2020-2021
+1250,Betis,Eibar,0,2,2020-2021
+1251,Athletic Club,Celta Vigo,0,2,2020-2021
+1252,Atletico de Madrid,Valladolid,2,0,2020-2021
+1253,Cadiz,Barcelona,2,1,2020-2021
+1254,Levante,Getafe,3,0,2020-2021
+1255,Sevilla,Real Madrid,0,1,2020-2021
+1256,Alaves,Real Sociedad,0,0,2020-2021
+1257,Granada,Huesca,3,3,2020-2021
+1258,Osasuna,Betis,0,2,2020-2021
+1259,Villarreal,Elche,0,0,2020-2021
+1260,Eibar,Valencia,0,0,2020-2021
+1261,Valladolid,Osasuna,3,2,2020-2021
+1262,Getafe,Sevilla,0,1,2020-2021
+1263,Huesca,Alaves,1,0,2020-2021
+1264,Real Madrid,Atletico de Madrid,2,0,2020-2021
+1265,Valencia,Athletic Club,2,2,2020-2021
+1266,Barcelona,Levante,1,0,2020-2021
+1267,Betis,Villarreal,1,1,2020-2021
+1268,Real Sociedad,Eibar,1,1,2020-2021
+1269,Elche,Granada,0,1,2020-2021
+1270,Celta Vigo,Cadiz,4,0,2020-2021
+1271,Real Madrid,Athletic Club,3,1,2020-2021
+1272,Barcelona,Real Sociedad,2,1,2020-2021
+1273,Alaves,Sevilla,1,2,2020-2021
+1274,Cadiz,Levante,2,2,2020-2021
+1275,Valladolid,Elche,2,2,2020-2021
+1276,Betis,Celta Vigo,2,1,2020-2021
+1277,Getafe,Huesca,1,0,2020-2021
+1278,Villarreal,Granada,2,2,2020-2021
+1279,Eibar,Atletico de Madrid,1,2,2020-2021
+1280,Valencia,Osasuna,1,1,2020-2021
+1281,Athletic Club,Huesca,2,0,2020-2021
+1282,Atletico de Madrid,Elche,3,1,2020-2021
+1283,Barcelona,Valencia,2,2,2020-2021
+1284,Levante,Real Sociedad,2,1,2020-2021
+1285,Osasuna,Villarreal,1,3,2020-2021
+1286,Sevilla,Valladolid,1,1,2020-2021
+1287,Celta Vigo,Alaves,2,0,2020-2021
+1288,Eibar,Real Madrid,1,3,2020-2021
+1289,Cadiz,Getafe,0,2,2020-2021
+1290,Granada,Betis,2,0,2020-2021
+1291,Huesca,Levante,1,1,2020-2021
+1292,Real Sociedad,Atletico de Madrid,0,2,2020-2021
+1293,Valencia,Sevilla,0,1,2020-2021
+1294,Valladolid,Barcelona,0,3,2020-2021
+1295,Villarreal,Athletic Club,1,1,2020-2021
+1296,Elche,Osasuna,2,2,2020-2021
+1297,Alaves,Eibar,2,1,2020-2021
+1298,Betis,Cadiz,1,0,2020-2021
+1299,Getafe,Celta Vigo,1,1,2020-2021
+1300,Real Madrid,Granada,2,0,2020-2021
+1301,Barcelona,Eibar,1,1,2020-2021
+1302,Cadiz,Valladolid,0,0,2020-2021
+1303,Levante,Betis,4,3,2020-2021
+1304,Sevilla,Villarreal,2,0,2020-2021
+1305,Atletico de Madrid,Getafe,1,0,2020-2021
+1306,Celta Vigo,Huesca,2,1,2020-2021
+1307,Granada,Valencia,2,1,2020-2021
+1308,Elche,Real Madrid,1,1,2020-2021
+1309,Athletic Club,Real Sociedad,0,1,2020-2021
+1310,Osasuna,Alaves,1,1,2020-2021
+1311,Betis,Sevilla,1,1,2020-2021
+1312,Getafe,Valladolid,0,1,2020-2021
+1313,Real Madrid,Celta Vigo,2,0,2020-2021
+1314,Villarreal,Levante,2,1,2020-2021
+1315,Alaves,Atletico de Madrid,1,2,2020-2021
+1316,Athletic Club,Elche,1,0,2020-2021
+1317,Eibar,Granada,2,0,2020-2021
+1318,Huesca,Barcelona,0,1,2020-2021
+1319,Real Sociedad,Osasuna,1,1,2020-2021
+1320,Valencia,Cadiz,1,1,2020-2021
+1321,Celta Vigo,Villarreal,0,4,2020-2021
+1322,Granada,Barcelona,0,4,2020-2021
+1323,Osasuna,Real Madrid,0,0,2020-2021
+1324,Sevilla,Real Sociedad,3,2,2020-2021
+1325,Cadiz,Alaves,3,1,2020-2021
+1326,Levante,Eibar,2,1,2020-2021
+1327,Valladolid,Valencia,0,1,2020-2021
+1328,Huesca,Betis,0,2,2020-2021
+1329,Elche,Getafe,1,3,2020-2021
+1330,Atletico de Madrid,Athletic Club,2,1,2020-2021
+1331,Levante,Valladolid,2,2,2020-2021
+1332,Alaves,Real Madrid,1,4,2020-2021
+1333,Huesca,Villarreal,0,0,2020-2021
+1334,Real Sociedad,Betis,2,2,2020-2021
+1335,Sevilla,Cadiz,3,0,2020-2021
+1336,Atletico de Madrid,Valencia,3,1,2020-2021
+1337,Celta Vigo,Eibar,1,1,2020-2021
+1338,Osasuna,Granada,3,1,2020-2021
+1339,Elche,Barcelona,0,2,2020-2021
+1340,Athletic Club,Getafe,5,1,2020-2021
+1341,Valladolid,Huesca,1,3,2020-2021
+1342,Eibar,Sevilla,0,2,2020-2021
+1343,Real Madrid,Levante,1,2,2020-2021
+1344,Valencia,Elche,1,0,2020-2021
+1345,Villarreal,Real Sociedad,1,1,2020-2021
+1346,Barcelona,Athletic Club,2,1,2020-2021
+1347,Getafe,Alaves,0,0,2020-2021
+1348,Cadiz,Atletico de Madrid,2,4,2020-2021
+1349,Granada,Celta Vigo,0,0,2020-2021
+1350,Betis,Osasuna,1,0,2020-2021
+1351,Alaves,Valladolid,1,0,2020-2021
+1352,Huesca,Real Madrid,1,2,2020-2021
+1353,Levante,Granada,2,2,2020-2021
+1354,Sevilla,Getafe,3,0,2020-2021
+1355,Elche,Villarreal,2,2,2020-2021
+1356,Athletic Club,Valencia,1,1,2020-2021
+1357,Betis,Barcelona,2,3,2020-2021
+1358,Osasuna,Eibar,2,1,2020-2021
+1359,Real Sociedad,Cadiz,4,1,2020-2021
+1360,Atletico de Madrid,Celta Vigo,2,2,2020-2021
+1361,Celta Vigo,Elche,3,1,2020-2021
+1362,Barcelona,Alaves,5,1,2020-2021
+1363,Eibar,Valladolid,1,1,2020-2021
+1364,Granada,Atletico de Madrid,1,2,2020-2021
+1365,Sevilla,Huesca,1,0,2020-2021
+1366,Getafe,Real Sociedad,0,1,2020-2021
+1367,Levante,Osasuna,0,1,2020-2021
+1368,Real Madrid,Valencia,2,0,2020-2021
+1369,Villarreal,Betis,1,2,2020-2021
+1370,Cadiz,Athletic Club,0,4,2020-2021
+1371,Betis,Getafe,1,0,2020-2021
+1372,Atletico de Madrid,Levante,0,2,2020-2021
+1373,Valencia,Celta Vigo,2,0,2020-2021
+1374,Valladolid,Real Madrid,0,1,2020-2021
+1375,Elche,Eibar,1,0,2020-2021
+1376,Athletic Club,Villarreal,1,1,2020-2021
+1377,Barcelona,Cadiz,1,1,2020-2021
+1378,Huesca,Granada,3,2,2020-2021
+1379,Real Sociedad,Alaves,4,0,2020-2021
+1380,Osasuna,Sevilla,0,2,2020-2021
+1381,Levante,Athletic Club,1,1,2020-2021
+1382,Alaves,Osasuna,0,1,2020-2021
+1383,Eibar,Huesca,1,1,2020-2021
+1384,Getafe,Valencia,3,0,2020-2021
+1385,Sevilla,Barcelona,0,2,2020-2021
+1386,Celta Vigo,Valladolid,1,1,2020-2021
+1387,Cadiz,Betis,0,1,2020-2021
+1388,Granada,Elche,2,1,2020-2021
+1389,Villarreal,Atletico de Madrid,0,2,2020-2021
+1390,Real Madrid,Real Sociedad,1,1,2020-2021
+1391,Valencia,Villarreal,2,1,2020-2021
+1392,Cadiz,Eibar,1,0,2020-2021
+1393,Osasuna,Barcelona,0,2,2020-2021
+1394,Valladolid,Getafe,2,1,2020-2021
+1395,Elche,Sevilla,2,1,2020-2021
+1396,Athletic Club,Granada,2,1,2020-2021
+1397,Atletico de Madrid,Real Madrid,1,1,2020-2021
+1398,Huesca,Celta Vigo,3,4,2020-2021
+1399,Real Sociedad,Levante,1,0,2020-2021
+1400,Betis,Alaves,3,2,2020-2021
+1401,Levante,Valencia,1,0,2020-2021
+1402,Alaves,Cadiz,1,1,2020-2021
+1403,Getafe,Atletico de Madrid,0,0,2020-2021
+1404,Osasuna,Valladolid,0,0,2020-2021
+1405,Real Madrid,Elche,2,1,2020-2021
+1406,Celta Vigo,Athletic Club,0,0,2020-2021
+1407,Eibar,Villarreal,1,3,2020-2021
+1408,Granada,Real Sociedad,1,0,2020-2021
+1409,Sevilla,Betis,1,0,2020-2021
+1410,Barcelona,Huesca,4,1,2020-2021
+1411,Betis,Levante,2,0,2020-2021
+1412,Athletic Club,Eibar,1,1,2020-2021
+1413,Celta Vigo,Real Madrid,1,3,2020-2021
+1414,Huesca,Osasuna,0,0,2020-2021
+1415,Valladolid,Sevilla,1,1,2020-2021
+1416,Atletico de Madrid,Alaves,1,0,2020-2021
+1417,Getafe,Elche,1,1,2020-2021
+1418,Real Sociedad,Barcelona,1,6,2020-2021
+1419,Valencia,Granada,2,1,2020-2021
+1420,Villarreal,Cadiz,2,1,2020-2021
+1421,Levante,Huesca,0,2,2020-2021
+1422,Granada,Villarreal,0,3,2020-2021
+1423,Osasuna,Getafe,0,0,2020-2021
+1424,Real Madrid,Eibar,2,0,2020-2021
+1425,Alaves,Celta Vigo,1,3,2020-2021
+1426,Cadiz,Valencia,2,1,2020-2021
+1427,Sevilla,Atletico de Madrid,1,0,2020-2021
+1428,Elche,Betis,1,1,2020-2021
+1429,Barcelona,Valladolid,1,0,2020-2021
+1430,Real Sociedad,Athletic Club,1,1,2020-2021
+1431,Huesca,Elche,3,1,2020-2021
+1432,Athletic Club,Alaves,0,0,2020-2021
+1433,Eibar,Levante,0,1,2020-2021
+1434,Getafe,Cadiz,0,1,2020-2021
+1435,Real Madrid,Barcelona,2,1,2020-2021
+1436,Betis,Atletico de Madrid,1,1,2020-2021
+1437,Valencia,Real Sociedad,2,2,2020-2021
+1438,Valladolid,Granada,1,2,2020-2021
+1439,Villarreal,Osasuna,1,2,2020-2021
+1440,Celta Vigo,Sevilla,3,4,2020-2021
+1441,Alaves,Huesca,1,0,2020-2021
+1442,Atletico de Madrid,Eibar,5,0,2020-2021
+1443,Betis,Valencia,2,2,2020-2021
+1444,Getafe,Real Madrid,0,0,2020-2021
+1445,Cadiz,Celta Vigo,0,0,2020-2021
+1446,Levante,Villarreal,1,5,2020-2021
+1447,Osasuna,Elche,2,0,2020-2021
+1448,Real Sociedad,Sevilla,1,2,2020-2021
+1449,Athletic Club,Valladolid,2,2,2020-2021
+1450,Barcelona,Granada,1,2,2020-2021
+1451,Alaves,Villarreal,2,1,2020-2021
+1452,Betis,Athletic Club,0,0,2020-2021
+1453,Cadiz,Real Madrid,0,3,2020-2021
+1454,Levante,Sevilla,0,1,2020-2021
+1455,Osasuna,Valencia,3,1,2020-2021
+1456,Elche,Valladolid,1,1,2020-2021
+1457,Atletico de Madrid,Huesca,2,0,2020-2021
+1458,Barcelona,Getafe,5,2,2020-2021
+1459,Granada,Eibar,4,1,2020-2021
+1460,Real Sociedad,Celta Vigo,2,1,2020-2021
+1461,Real Madrid,Betis,0,0,2020-2021
+1462,Valencia,Alaves,1,1,2020-2021
+1463,Valladolid,Cadiz,1,1,2020-2021
+1464,Elche,Levante,1,0,2020-2021
+1465,Athletic Club,Atletico de Madrid,2,1,2020-2021
+1466,Celta Vigo,Osasuna,2,1,2020-2021
+1467,Huesca,Getafe,0,2,2020-2021
+1468,Sevilla,Granada,2,1,2020-2021
+1469,Villarreal,Barcelona,1,2,2020-2021
+1470,Eibar,Real Sociedad,0,1,2020-2021
+1471,Celta Vigo,Levante,2,0,2020-2021
+1472,Eibar,Alaves,3,0,2020-2021
+1473,Huesca,Real Sociedad,1,0,2020-2021
+1474,Real Madrid,Osasuna,2,0,2020-2021
+1475,Elche,Atletico de Madrid,0,1,2020-2021
+1476,Granada,Cadiz,0,1,2020-2021
+1477,Valencia,Barcelona,2,3,2020-2021
+1478,Valladolid,Betis,1,1,2020-2021
+1479,Villarreal,Getafe,1,0,2020-2021
+1480,Sevilla,Athletic Club,0,1,2020-2021
+1481,Real Sociedad,Elche,2,0,2020-2021
+1482,Alaves,Levante,2,2,2020-2021
+1483,Athletic Club,Osasuna,2,2,2020-2021
+1484,Barcelona,Atletico de Madrid,0,0,2020-2021
+1485,Cadiz,Huesca,2,1,2020-2021
+1486,Getafe,Eibar,0,1,2020-2021
+1487,Real Madrid,Sevilla,2,2,2020-2021
+1488,Valencia,Valladolid,3,0,2020-2021
+1489,Villarreal,Celta Vigo,2,4,2020-2021
+1490,Betis,Granada,2,1,2020-2021
+1491,Levante,Barcelona,3,3,2020-2021
+1492,Osasuna,Cadiz,3,2,2020-2021
+1493,Elche,Alaves,0,2,2020-2021
+1494,Atletico de Madrid,Real Sociedad,2,1,2020-2021
+1495,Celta Vigo,Getafe,1,0,2020-2021
+1496,Huesca,Athletic Club,1,0,2020-2021
+1497,Sevilla,Valencia,1,0,2020-2021
+1498,Eibar,Betis,1,1,2020-2021
+1499,Granada,Real Madrid,1,4,2020-2021
+1500,Valladolid,Villarreal,0,2,2020-2021
+1501,Alaves,Granada,4,2,2020-2021
+1502,Athletic Club,Real Madrid,0,1,2020-2021
+1503,Atletico de Madrid,Osasuna,2,1,2020-2021
+1504,Barcelona,Celta Vigo,1,2,2020-2021
+1505,Betis,Huesca,1,0,2020-2021
+1506,Getafe,Levante,2,1,2020-2021
+1507,Cadiz,Elche,1,3,2020-2021
+1508,Real Sociedad,Valladolid,4,1,2020-2021
+1509,Valencia,Eibar,4,1,2020-2021
+1510,Villarreal,Sevilla,4,0,2020-2021
+1511,Levante,Cadiz,2,2,2020-2021
+1512,Celta Vigo,Betis,2,3,2020-2021
+1513,Eibar,Barcelona,0,1,2020-2021
+1514,Huesca,Valencia,0,0,2020-2021
+1515,Osasuna,Real Sociedad,0,1,2020-2021
+1516,Real Madrid,Villarreal,2,1,2020-2021
+1517,Valladolid,Atletico de Madrid,1,2,2020-2021
+1518,Elche,Athletic Club,2,0,2020-2021
+1519,Granada,Getafe,0,0,2020-2021
+1520,Sevilla,Alaves,1,0,2020-2021
+1521,Valencia,Getafe,1,0,2021-2022
+1522,Osasuna,Espanyol,0,0,2021-2022
+1523,Mallorca,Betis,1,1,2021-2022
+1524,Cadiz,Levante,1,1,2021-2022
+1525,Alaves,Real Madrid,1,4,2021-2022
+1526,Celta Vigo,Atletico de Madrid,1,2,2021-2022
+1527,Barcelona,Real Sociedad,4,2,2021-2022
+1528,Sevilla,Rayo Vallecano,3,0,2021-2022
+1529,Villarreal,Granada,0,0,2021-2022
+1530,Elche,Athletic Club,0,0,2021-2022
+1531,Betis,Cadiz,1,1,2021-2022
+1532,Alaves,Mallorca,0,1,2021-2022
+1533,Granada,Valencia,1,1,2021-2022
+1534,Espanyol,Villarreal,0,0,2021-2022
+1535,Athletic Club,Barcelona,1,1,2021-2022
+1536,Real Sociedad,Rayo Vallecano,1,0,2021-2022
+1537,Atletico de Madrid,Elche,1,0,2021-2022
+1538,Levante,Real Madrid,3,3,2021-2022
+1539,Getafe,Sevilla,0,1,2021-2022
+1540,Osasuna,Celta Vigo,0,0,2021-2022
+1541,Mallorca,Espanyol,1,0,2021-2022
+1542,Valencia,Alaves,3,0,2021-2022
+1543,Celta Vigo,Athletic Club,0,1,2021-2022
+1544,Real Sociedad,Levante,1,0,2021-2022
+1545,Elche,Sevilla,1,1,2021-2022
+1546,Betis,Real Madrid,0,1,2021-2022
+1547,Barcelona,Getafe,2,1,2021-2022
+1548,Cadiz,Osasuna,2,3,2021-2022
+1549,Rayo Vallecano,Granada,4,0,2021-2022
+1550,Atletico de Madrid,Villarreal,2,2,2021-2022
+1551,Athletic Club,Mallorca,2,0,2021-2022
+1552,Levante,Rayo Vallecano,1,1,2021-2022
+1553,Cadiz,Real Sociedad,0,2,2021-2022
+1554,Espanyol,Atletico de Madrid,1,2,2021-2022
+1555,Osasuna,Valencia,1,4,2021-2022
+1556,Real Madrid,Celta Vigo,5,2,2021-2022
+1557,Getafe,Elche,0,1,2021-2022
+1558,Granada,Betis,1,2,2021-2022
+1559,Sevilla,Barcelona,1,1,2021-2022
+1560,Villarreal,Alaves,5,2,2021-2022
+1561,Celta Vigo,Cadiz,1,2,2021-2022
+1562,Alaves,Osasuna,0,2,2021-2022
+1563,Atletico de Madrid,Athletic Club,0,0,2021-2022
+1564,Rayo Vallecano,Getafe,3,0,2021-2022
+1565,Elche,Levante,1,1,2021-2022
+1566,Betis,Espanyol,2,2,2021-2022
+1567,Mallorca,Villarreal,0,0,2021-2022
+1568,Real Sociedad,Sevilla,0,0,2021-2022
+1569,Valencia,Real Madrid,1,2,2021-2022
+1570,Barcelona,Granada,1,1,2021-2022
+1571,Athletic Club,Rayo Vallecano,1,2,2021-2022
+1572,Getafe,Atletico de Madrid,1,2,2021-2022
+1573,Levante,Celta Vigo,0,2,2021-2022
+1574,Espanyol,Alaves,1,0,2021-2022
+1575,Real Madrid,Mallorca,6,1,2021-2022
+1576,Sevilla,Valencia,3,1,2021-2022
+1577,Villarreal,Elche,4,1,2021-2022
+1578,Cadiz,Barcelona,0,0,2021-2022
+1579,Granada,Real Sociedad,2,3,2021-2022
+1580,Osasuna,Betis,1,3,2021-2022
+1581,Alaves,Atletico de Madrid,1,0,2021-2022
+1582,Real Madrid,Villarreal,0,0,2021-2022
+1583,Sevilla,Espanyol,2,0,2021-2022
+1584,Valencia,Athletic Club,1,1,2021-2022
+1585,Barcelona,Levante,3,0,2021-2022
+1586,Betis,Getafe,2,0,2021-2022
+1587,Mallorca,Osasuna,2,3,2021-2022
+1588,Real Sociedad,Elche,1,0,2021-2022
+1589,Rayo Vallecano,Cadiz,3,1,2021-2022
+1590,Celta Vigo,Granada,1,0,2021-2022
+1591,Athletic Club,Alaves,1,0,2021-2022
+1592,Atletico de Madrid,Barcelona,2,0,2021-2022
+1593,Mallorca,Levante,1,0,2021-2022
+1594,Cadiz,Valencia,0,0,2021-2022
+1595,Osasuna,Rayo Vallecano,1,0,2021-2022
+1596,Getafe,Real Sociedad,1,1,2021-2022
+1597,Granada,Sevilla,1,0,2021-2022
+1598,Espanyol,Real Madrid,2,1,2021-2022
+1599,Villarreal,Betis,2,0,2021-2022
+1600,Elche,Celta Vigo,1,0,2021-2022
+1601,Levante,Getafe,0,0,2021-2022
+1602,Real Sociedad,Mallorca,1,0,2021-2022
+1603,Barcelona,Valencia,3,1,2021-2022
+1604,Celta Vigo,Sevilla,0,1,2021-2022
+1605,Rayo Vallecano,Elche,2,1,2021-2022
+1606,Villarreal,Osasuna,1,2,2021-2022
+1607,Alaves,Betis,0,1,2021-2022
+1608,Espanyol,Cadiz,2,0,2021-2022
+1609,Real Madrid,Athletic Club,1,0,2021-2022
+1610,Granada,Atletico de Madrid,2,1,2021-2022
+1611,Osasuna,Granada,1,1,2021-2022
+1612,Athletic Club,Villarreal,2,1,2021-2022
+1613,Cadiz,Alaves,0,2,2021-2022
+1614,Valencia,Mallorca,2,2,2021-2022
+1615,Elche,Espanyol,2,2,2021-2022
+1616,Atletico de Madrid,Real Sociedad,2,2,2021-2022
+1617,Barcelona,Real Madrid,1,2,2021-2022
+1618,Betis,Rayo Vallecano,3,2,2021-2022
+1619,Sevilla,Levante,5,3,2021-2022
+1620,Getafe,Celta Vigo,0,3,2021-2022
+1621,Alaves,Elche,1,0,2021-2022
+1622,Espanyol,Athletic Club,1,1,2021-2022
+1623,Villarreal,Cadiz,3,3,2021-2022
+1624,Betis,Valencia,4,1,2021-2022
+1625,Mallorca,Sevilla,1,1,2021-2022
+1626,Real Madrid,Osasuna,0,0,2021-2022
+1627,Rayo Vallecano,Barcelona,1,0,2021-2022
+1628,Celta Vigo,Real Sociedad,0,2,2021-2022
+1629,Granada,Getafe,1,1,2021-2022
+1630,Levante,Atletico de Madrid,2,2,2021-2022
+1631,Barcelona,Alaves,1,1,2021-2022
+1632,Sevilla,Osasuna,2,0,2021-2022
+1633,Valencia,Villarreal,2,0,2021-2022
+1634,Elche,Real Madrid,1,2,2021-2022
+1635,Atletico de Madrid,Betis,3,0,2021-2022
+1636,Getafe,Espanyol,2,1,2021-2022
+1637,Cadiz,Mallorca,1,1,2021-2022
+1638,Real Sociedad,Athletic Club,1,1,2021-2022
+1639,Levante,Granada,0,3,2021-2022
+1640,Rayo Vallecano,Celta Vigo,0,0,2021-2022
+1641,Athletic Club,Cadiz,0,1,2021-2022
+1642,Alaves,Levante,2,1,2021-2022
+1643,Celta Vigo,Barcelona,3,3,2021-2022
+1644,Espanyol,Granada,2,0,2021-2022
+1645,Real Madrid,Rayo Vallecano,2,1,2021-2022
+1646,Betis,Sevilla,0,2,2021-2022
+1647,Mallorca,Elche,2,2,2021-2022
+1648,Osasuna,Real Sociedad,0,2,2021-2022
+1649,Valencia,Atletico de Madrid,3,3,2021-2022
+1650,Villarreal,Getafe,1,0,2021-2022
+1651,Levante,Athletic Club,0,0,2021-2022
+1652,Atletico de Madrid,Osasuna,1,0,2021-2022
+1653,Barcelona,Espanyol,1,0,2021-2022
+1654,Celta Vigo,Villarreal,1,1,2021-2022
+1655,Sevilla,Alaves,2,2,2021-2022
+1656,Getafe,Cadiz,4,0,2021-2022
+1657,Granada,Real Madrid,1,4,2021-2022
+1658,Real Sociedad,Valencia,0,0,2021-2022
+1659,Elche,Betis,0,3,2021-2022
+1660,Rayo Vallecano,Mallorca,3,1,2021-2022
+1661,Athletic Club,Granada,2,2,2021-2022
+1662,Alaves,Celta Vigo,1,2,2021-2022
+1663,Mallorca,Getafe,0,0,2021-2022
+1664,Valencia,Rayo Vallecano,1,1,2021-2022
+1665,Villarreal,Barcelona,1,3,2021-2022
+1666,Betis,Levante,3,1,2021-2022
+1667,Cadiz,Atletico de Madrid,1,4,2021-2022
+1668,Espanyol,Real Sociedad,1,0,2021-2022
+1669,Real Madrid,Sevilla,2,1,2021-2022
+1670,Osasuna,Elche,1,1,2021-2022
+1671,Granada,Alaves,2,1,2021-2022
+1672,Atletico de Madrid,Mallorca,1,2,2021-2022
+1673,Barcelona,Betis,0,1,2021-2022
+1674,Real Sociedad,Real Madrid,0,2,2021-2022
+1675,Sevilla,Villarreal,1,0,2021-2022
+1676,Celta Vigo,Valencia,1,2,2021-2022
+1677,Levante,Osasuna,0,0,2021-2022
+1678,Rayo Vallecano,Espanyol,1,0,2021-2022
+1679,Elche,Cadiz,3,1,2021-2022
+1680,Getafe,Athletic Club,0,0,2021-2022
+1681,Mallorca,Celta Vigo,0,0,2021-2022
+1682,Alaves,Getafe,1,1,2021-2022
+1683,Athletic Club,Sevilla,0,1,2021-2022
+1684,Espanyol,Levante,4,3,2021-2022
+1685,Valencia,Elche,2,1,2021-2022
+1686,Betis,Real Sociedad,4,0,2021-2022
+1687,Osasuna,Barcelona,2,2,2021-2022
+1688,Real Madrid,Atletico de Madrid,2,0,2021-2022
+1689,Villarreal,Rayo Vallecano,2,0,2021-2022
+1690,Cadiz,Granada,1,1,2021-2022
+1691,Celta Vigo,Espanyol,3,1,2021-2022
+1692,Barcelona,Elche,3,2,2021-2022
+1693,Real Sociedad,Villarreal,1,3,2021-2022
+1694,Sevilla,Atletico de Madrid,2,1,2021-2022
+1695,Rayo Vallecano,Alaves,2,0,2021-2022
+1696,Athletic Club,Betis,3,2,2021-2022
+1697,Getafe,Osasuna,1,0,2021-2022
+1698,Granada,Mallorca,4,1,2021-2022
+1699,Real Madrid,Cadiz,0,0,2021-2022
+1700,Levante,Valencia,3,4,2021-2022
+1701,Athletic Club,Real Madrid,1,2,2021-2022
+1702,Elche,Villarreal,1,0,2021-2022
+1703,Betis,Alaves,4,0,2021-2022
+1704,Cadiz,Espanyol,2,2,2021-2022
+1705,Celta Vigo,Osasuna,2,0,2021-2022
+1706,Valencia,Sevilla,1,1,2021-2022
+1707,Getafe,Granada,4,2,2021-2022
+1708,Atletico de Madrid,Levante,0,1,2021-2022
+1709,Mallorca,Real Sociedad,0,2,2021-2022
+1710,Barcelona,Rayo Vallecano,0,1,2021-2022
+1711,Valencia,Espanyol,1,2,2021-2022
+1712,Alaves,Real Sociedad,1,1,2021-2022
+1713,Atletico de Madrid,Rayo Vallecano,2,0,2021-2022
+1714,Betis,Celta Vigo,0,2,2021-2022
+1715,Mallorca,Barcelona,0,1,2021-2022
+1716,Getafe,Real Madrid,1,0,2021-2022
+1717,Elche,Granada,0,0,2021-2022
+1718,Cadiz,Sevilla,0,1,2021-2022
+1719,Osasuna,Athletic Club,1,3,2021-2022
+1720,Villarreal,Levante,5,0,2021-2022
+1721,Granada,Barcelona,1,1,2021-2022
+1722,Levante,Mallorca,2,0,2021-2022
+1723,Real Madrid,Valencia,4,1,2021-2022
+1724,Real Sociedad,Celta Vigo,1,0,2021-2022
+1725,Alaves,Athletic Club,0,0,2021-2022
+1726,Osasuna,Cadiz,2,0,2021-2022
+1727,Sevilla,Getafe,1,0,2021-2022
+1728,Rayo Vallecano,Betis,1,1,2021-2022
+1729,Villarreal,Atletico de Madrid,2,2,2021-2022
+1730,Espanyol,Elche,1,2,2021-2022
+1731,Espanyol,Betis,1,4,2021-2022
+1732,Atletico de Madrid,Valencia,3,2,2021-2022
+1733,Levante,Cadiz,0,2,2021-2022
+1734,Sevilla,Celta Vigo,2,2,2021-2022
+1735,Villarreal,Mallorca,3,0,2021-2022
+1736,Alaves,Barcelona,0,1,2021-2022
+1737,Granada,Osasuna,0,2,2021-2022
+1738,Real Madrid,Elche,2,2,2021-2022
+1739,Real Sociedad,Getafe,0,0,2021-2022
+1740,Rayo Vallecano,Athletic Club,0,1,2021-2022
+1741,Getafe,Levante,3,0,2021-2022
+1742,Celta Vigo,Rayo Vallecano,2,0,2021-2022
+1743,Mallorca,Cadiz,2,1,2021-2022
+1744,Osasuna,Sevilla,0,0,2021-2022
+1745,Elche,Alaves,3,1,2021-2022
+1746,Barcelona,Atletico de Madrid,4,2,2021-2022
+1747,Betis,Villarreal,0,2,2021-2022
+1748,Real Madrid,Granada,1,0,2021-2022
+1749,Valencia,Real Sociedad,0,0,2021-2022
+1750,Athletic Club,Espanyol,2,1,2021-2022
+1751,Sevilla,Elche,2,0,2021-2022
+1752,Atletico de Madrid,Getafe,4,3,2021-2022
+1753,Cadiz,Celta Vigo,0,0,2021-2022
+1754,Rayo Vallecano,Osasuna,0,3,2021-2022
+1755,Villarreal,Real Madrid,0,0,2021-2022
+1756,Alaves,Valencia,2,1,2021-2022
+1757,Espanyol,Barcelona,2,2,2021-2022
+1758,Levante,Betis,2,4,2021-2022
+1759,Real Sociedad,Granada,2,0,2021-2022
+1760,Mallorca,Athletic Club,3,2,2021-2022
+1761,Elche,Rayo Vallecano,2,1,2021-2022
+1762,Cadiz,Getafe,1,1,2021-2022
+1763,Granada,Villarreal,1,4,2021-2022
+1764,Osasuna,Atletico de Madrid,0,3,2021-2022
+1765,Real Madrid,Alaves,3,0,2021-2022
+1766,Athletic Club,Real Sociedad,4,0,2021-2022
+1767,Betis,Mallorca,2,1,2021-2022
+1768,Espanyol,Sevilla,1,1,2021-2022
+1769,Valencia,Barcelona,1,4,2021-2022
+1770,Celta Vigo,Levante,1,1,2021-2022
+1771,Levante,Elche,3,0,2021-2022
+1772,Atletico de Madrid,Celta Vigo,2,0,2021-2022
+1773,Mallorca,Valencia,0,1,2021-2022
+1774,Getafe,Alaves,2,2,2021-2022
+1775,Rayo Vallecano,Real Madrid,0,1,2021-2022
+1776,Barcelona,Athletic Club,4,0,2021-2022
+1777,Real Sociedad,Osasuna,1,0,2021-2022
+1778,Sevilla,Betis,2,1,2021-2022
+1779,Villarreal,Espanyol,5,1,2021-2022
+1780,Granada,Cadiz,0,0,2021-2022
+1781,Alaves,Sevilla,0,0,2021-2022
+1782,Espanyol,Getafe,2,0,2021-2022
+1783,Osasuna,Villarreal,1,0,2021-2022
+1784,Real Madrid,Real Sociedad,4,1,2021-2022
+1785,Valencia,Granada,3,1,2021-2022
+1786,Betis,Atletico de Madrid,1,3,2021-2022
+1787,Celta Vigo,Mallorca,4,3,2021-2022
+1788,Cadiz,Rayo Vallecano,2,0,2021-2022
+1789,Elche,Barcelona,1,2,2021-2022
+1790,Athletic Club,Levante,3,1,2021-2022
+1791,Atletico de Madrid,Cadiz,2,1,2021-2022
+1792,Getafe,Valencia,0,0,2021-2022
+1793,Granada,Elche,0,1,2021-2022
+1794,Levante,Espanyol,1,1,2021-2022
+1795,Villarreal,Celta Vigo,1,0,2021-2022
+1796,Barcelona,Osasuna,4,0,2021-2022
+1797,Betis,Athletic Club,1,0,2021-2022
+1798,Real Sociedad,Alaves,1,0,2021-2022
+1799,Rayo Vallecano,Sevilla,1,1,2021-2022
+1800,Mallorca,Real Madrid,0,3,2021-2022
+1801,Athletic Club,Getafe,1,1,2021-2022
+1802,Alaves,Granada,2,3,2021-2022
+1803,Osasuna,Levante,3,1,2021-2022
+1804,Rayo Vallecano,Atletico de Madrid,0,1,2021-2022
+1805,Elche,Valencia,0,1,2021-2022
+1806,Celta Vigo,Betis,0,0,2021-2022
+1807,Cadiz,Villarreal,1,0,2021-2022
+1808,Espanyol,Mallorca,1,0,2021-2022
+1809,Real Madrid,Barcelona,0,4,2021-2022
+1810,Sevilla,Real Sociedad,0,0,2021-2022
+1811,Atletico de Madrid,Alaves,4,1,2021-2022
+1812,Celta Vigo,Real Madrid,1,2,2021-2022
+1813,Getafe,Mallorca,1,0,2021-2022
+1814,Levante,Villarreal,2,0,2021-2022
+1815,Athletic Club,Elche,2,1,2021-2022
+1816,Barcelona,Sevilla,1,0,2021-2022
+1817,Betis,Osasuna,4,1,2021-2022
+1818,Granada,Rayo Vallecano,2,2,2021-2022
+1819,Valencia,Cadiz,0,0,2021-2022
+1820,Real Sociedad,Espanyol,1,0,2021-2022
+1821,Sevilla,Granada,4,2,2021-2022
+1822,Mallorca,Atletico de Madrid,1,0,2021-2022
+1823,Cadiz,Betis,1,2,2021-2022
+1824,Real Madrid,Getafe,2,0,2021-2022
+1825,Villarreal,Athletic Club,1,1,2021-2022
+1826,Espanyol,Celta Vigo,1,0,2021-2022
+1827,Levante,Barcelona,2,3,2021-2022
+1828,Osasuna,Alaves,1,0,2021-2022
+1829,Elche,Real Sociedad,1,2,2021-2022
+1830,Rayo Vallecano,Valencia,1,1,2021-2022
+1831,Real Sociedad,Betis,0,0,2021-2022
+1832,Alaves,Rayo Vallecano,1,0,2021-2022
+1833,Getafe,Villarreal,1,2,2021-2022
+1834,Valencia,Osasuna,1,2,2021-2022
+1835,Elche,Mallorca,3,0,2021-2022
+1836,Athletic Club,Celta Vigo,0,2,2021-2022
+1837,Atletico de Madrid,Espanyol,2,1,2021-2022
+1838,Granada,Levante,1,4,2021-2022
+1839,Sevilla,Real Madrid,2,3,2021-2022
+1840,Barcelona,Cadiz,0,1,2021-2022
+1841,Betis,Elche,0,1,2021-2022
+1842,Mallorca,Alaves,2,1,2021-2022
+1843,Villarreal,Valencia,2,0,2021-2022
+1844,Atletico de Madrid,Granada,0,0,2021-2022
+1845,Celta Vigo,Getafe,0,2,2021-2022
+1846,Osasuna,Real Madrid,1,3,2021-2022
+1847,Cadiz,Athletic Club,2,3,2021-2022
+1848,Espanyol,Rayo Vallecano,0,1,2021-2022
+1849,Levante,Sevilla,2,3,2021-2022
+1850,Real Sociedad,Barcelona,0,1,2021-2022
+1851,Sevilla,Cadiz,1,1,2021-2022
+1852,Alaves,Villarreal,2,1,2021-2022
+1853,Athletic Club,Atletico de Madrid,2,0,2021-2022
+1854,Real Madrid,Espanyol,4,0,2021-2022
+1855,Valencia,Levante,1,1,2021-2022
+1856,Barcelona,Mallorca,2,1,2021-2022
+1857,Granada,Celta Vigo,1,1,2021-2022
+1858,Rayo Vallecano,Real Sociedad,1,1,2021-2022
+1859,Elche,Osasuna,1,1,2021-2022
+1860,Getafe,Betis,0,0,2021-2022
+1861,Levante,Real Sociedad,2,1,2021-2022
+1862,Athletic Club,Valencia,0,0,2021-2022
+1863,Betis,Barcelona,1,2,2021-2022
+1864,Celta Vigo,Alaves,4,0,2021-2022
+1865,Mallorca,Granada,2,6,2021-2022
+1866,Cadiz,Elche,3,0,2021-2022
+1867,Atletico de Madrid,Real Madrid,1,0,2021-2022
+1868,Getafe,Rayo Vallecano,0,0,2021-2022
+1869,Espanyol,Osasuna,1,1,2021-2022
+1870,Villarreal,Sevilla,1,1,2021-2022
+1871,Barcelona,Celta Vigo,3,1,2021-2022
+1872,Granada,Athletic Club,1,0,2021-2022
+1873,Valencia,Betis,0,3,2021-2022
+1874,Alaves,Espanyol,2,1,2021-2022
+1875,Osasuna,Getafe,1,1,2021-2022
+1876,Sevilla,Mallorca,0,0,2021-2022
+1877,Elche,Atletico de Madrid,0,2,2021-2022
+1878,Real Madrid,Levante,6,0,2021-2022
+1879,Real Sociedad,Cadiz,3,0,2021-2022
+1880,Rayo Vallecano,Villarreal,1,5,2021-2022
+1881,Espanyol,Valencia,1,1,2021-2022
+1882,Athletic Club,Osasuna,2,0,2021-2022
+1883,Atletico de Madrid,Sevilla,1,1,2021-2022
+1884,Betis,Granada,2,0,2021-2022
+1885,Celta Vigo,Elche,1,0,2021-2022
+1886,Mallorca,Rayo Vallecano,2,1,2021-2022
+1887,Getafe,Barcelona,0,0,2021-2022
+1888,Cadiz,Real Madrid,1,1,2021-2022
+1889,Levante,Alaves,3,1,2021-2022
+1890,Villarreal,Real Sociedad,1,2,2021-2022
+1891,Real Madrid,Betis,0,0,2021-2022
+1892,Rayo Vallecano,Levante,2,4,2021-2022
+1893,Valencia,Celta Vigo,2,0,2021-2022
+1894,Alaves,Cadiz,0,1,2021-2022
+1895,Barcelona,Villarreal,0,2,2021-2022
+1896,Granada,Espanyol,0,0,2021-2022
+1897,Osasuna,Mallorca,0,2,2021-2022
+1898,Real Sociedad,Atletico de Madrid,1,2,2021-2022
+1899,Sevilla,Athletic Club,1,0,2021-2022
+1900,Elche,Getafe,3,1,2021-2022
+1901,Osasuna,Sevilla,2,1,2022-2023
+1902,Celta Vigo,Espanyol,2,2,2022-2023
+1903,Valladolid,Villarreal,0,3,2022-2023
+1904,Barcelona,Rayo Vallecano,0,0,2022-2023
+1905,Cadiz,Real Sociedad,0,1,2022-2023
+1906,Valencia,Girona,1,0,2022-2023
+1907,Almeria,Real Madrid,1,2,2022-2023
+1908,Athletic Club,Mallorca,0,0,2022-2023
+1909,Getafe,Atletico de Madrid,0,3,2022-2023
+1910,Betis,Elche,3,0,2022-2023
+1911,Espanyol,Rayo Vallecano,0,2,2022-2023
+1912,Sevilla,Valladolid,1,1,2022-2023
+1913,Osasuna,Cadiz,2,0,2022-2023
+1914,Mallorca,Betis,1,2,2022-2023
+1915,Celta Vigo,Real Madrid,1,4,2022-2023
+1916,Athletic Club,Valencia,1,0,2022-2023
+1917,Atletico de Madrid,Villarreal,0,2,2022-2023
+1918,Real Sociedad,Barcelona,1,4,2022-2023
+1919,Elche,Almeria,1,1,2022-2023
+1920,Girona,Getafe,3,1,2022-2023
+1921,Girona,Celta Vigo,0,1,2022-2023
+1922,Betis,Osasuna,1,0,2022-2023
+1923,Elche,Real Sociedad,0,1,2022-2023
+1924,Rayo Vallecano,Mallorca,0,2,2022-2023
+1925,Almeria,Sevilla,2,1,2022-2023
+1926,Getafe,Villarreal,0,0,2022-2023
+1927,Barcelona,Valladolid,4,0,2022-2023
+1928,Espanyol,Real Madrid,1,3,2022-2023
+1929,Cadiz,Athletic Club,0,4,2022-2023
+1930,Valencia,Atletico de Madrid,0,1,2022-2023
+1931,Celta Vigo,Cadiz,3,0,2022-2023
+1932,Mallorca,Girona,1,1,2022-2023
+1933,Real Madrid,Betis,2,1,2022-2023
+1934,Real Sociedad,Atletico de Madrid,1,1,2022-2023
+1935,Sevilla,Barcelona,0,3,2022-2023
+1936,Osasuna,Rayo Vallecano,2,1,2022-2023
+1937,Athletic Club,Espanyol,0,1,2022-2023
+1938,Villarreal,Elche,4,0,2022-2023
+1939,Valencia,Getafe,5,1,2022-2023
+1940,Valladolid,Almeria,1,0,2022-2023
+1941,Girona,Valladolid,2,1,2022-2023
+1942,Rayo Vallecano,Valencia,2,1,2022-2023
+1943,Espanyol,Sevilla,2,3,2022-2023
+1944,Cadiz,Barcelona,0,4,2022-2023
+1945,Atletico de Madrid,Celta Vigo,4,1,2022-2023
+1946,Real Madrid,Mallorca,4,1,2022-2023
+1947,Getafe,Real Sociedad,2,1,2022-2023
+1948,Elche,Athletic Club,1,4,2022-2023
+1949,Betis,Villarreal,1,0,2022-2023
+1950,Almeria,Osasuna,0,1,2022-2023
+1951,Valladolid,Cadiz,0,1,2022-2023
+1952,Athletic Club,Rayo Vallecano,3,2,2022-2023
+1953,Barcelona,Elche,3,0,2022-2023
+1954,Valencia,Celta Vigo,3,0,2022-2023
+1955,Mallorca,Almeria,1,0,2022-2023
+1956,Atletico de Madrid,Real Madrid,1,2,2022-2023
+1957,Betis,Girona,2,1,2022-2023
+1958,Osasuna,Getafe,0,2,2022-2023
+1959,Real Sociedad,Espanyol,2,1,2022-2023
+1960,Villarreal,Sevilla,1,1,2022-2023
+1961,Athletic Club,Almeria,4,0,2022-2023
+1962,Getafe,Valladolid,2,3,2022-2023
+1963,Cadiz,Villarreal,0,0,2022-2023
+1964,Sevilla,Atletico de Madrid,0,2,2022-2023
+1965,Mallorca,Barcelona,0,1,2022-2023
+1966,Espanyol,Valencia,2,2,2022-2023
+1967,Girona,Real Sociedad,3,5,2022-2023
+1968,Celta Vigo,Betis,1,0,2022-2023
+1969,Real Madrid,Osasuna,1,1,2022-2023
+1970,Rayo Vallecano,Elche,2,1,2022-2023
+1971,Osasuna,Valencia,1,2,2022-2023
+1972,Atletico de Madrid,Girona,2,1,2022-2023
+1973,Getafe,Real Madrid,0,1,2022-2023
+1974,Almeria,Rayo Vallecano,3,1,2022-2023
+1975,Sevilla,Athletic Club,1,1,2022-2023
+1976,Barcelona,Celta Vigo,1,0,2022-2023
+1977,Cadiz,Espanyol,2,2,2022-2023
+1978,Real Sociedad,Villarreal,1,0,2022-2023
+1979,Valladolid,Betis,0,0,2022-2023
+1980,Elche,Mallorca,1,1,2022-2023
+1981,Rayo Vallecano,Getafe,0,0,2022-2023
+1982,Athletic Club,Atletico de Madrid,0,1,2022-2023
+1983,Mallorca,Sevilla,0,1,2022-2023
+1984,Valencia,Elche,2,2,2022-2023
+1985,Girona,Cadiz,1,1,2022-2023
+1986,Celta Vigo,Real Sociedad,1,2,2022-2023
+1987,Espanyol,Valladolid,1,0,2022-2023
+1988,Real Madrid,Barcelona,3,1,2022-2023
+1989,Betis,Almeria,3,1,2022-2023
+1990,Villarreal,Osasuna,2,0,2022-2023
+1991,Atletico de Madrid,Rayo Vallecano,1,1,2022-2023
+1992,Sevilla,Valencia,1,1,2022-2023
+1993,Getafe,Athletic Club,2,2,2022-2023
+1994,Elche,Real Madrid,0,3,2022-2023
+1995,Cadiz,Betis,0,0,2022-2023
+1996,Valladolid,Celta Vigo,4,1,2022-2023
+1997,Real Sociedad,Mallorca,1,0,2022-2023
+1998,Barcelona,Villarreal,3,0,2022-2023
+1999,Almeria,Girona,3,2,2022-2023
+2000,Osasuna,Espanyol,1,0,2022-2023
+2001,Real Madrid,Sevilla,3,1,2022-2023
+2002,Valencia,Mallorca,1,2,2022-2023
+2003,Rayo Vallecano,Cadiz,5,1,2022-2023
+2004,Valladolid,Real Sociedad,1,0,2022-2023
+2005,Girona,Osasuna,1,1,2022-2023
+2006,Barcelona,Athletic Club,4,0,2022-2023
+2007,Betis,Atletico de Madrid,1,2,2022-2023
+2008,Espanyol,Elche,2,2,2022-2023
+2009,Villarreal,Almeria,2,1,2022-2023
+2010,Celta Vigo,Getafe,1,1,2022-2023
+2011,Mallorca,Espanyol,1,1,2022-2023
+2012,Almeria,Celta Vigo,3,1,2022-2023
+2013,Cadiz,Atletico de Madrid,3,2,2022-2023
+2014,Valencia,Barcelona,0,1,2022-2023
+2015,Sevilla,Rayo Vallecano,0,1,2022-2023
+2016,Athletic Club,Villarreal,1,0,2022-2023
+2017,Osasuna,Valladolid,2,0,2022-2023
+2018,Real Sociedad,Betis,0,2,2022-2023
+2019,Real Madrid,Girona,1,1,2022-2023
+2020,Elche,Getafe,0,1,2022-2023
+2021,Girona,Athletic Club,2,1,2022-2023
+2022,Celta Vigo,Osasuna,1,2,2022-2023
+2023,Valladolid,Elche,2,1,2022-2023
+2024,Getafe,Cadiz,0,0,2022-2023
+2025,Barcelona,Almeria,2,0,2022-2023
+2026,Atletico de Madrid,Espanyol,1,1,2022-2023
+2027,Betis,Sevilla,1,1,2022-2023
+2028,Real Sociedad,Valencia,1,1,2022-2023
+2029,Villarreal,Mallorca,0,2,2022-2023
+2030,Rayo Vallecano,Real Madrid,3,2,2022-2023
+2031,Athletic Club,Valladolid,3,0,2022-2023
+2032,Elche,Girona,1,2,2022-2023
+2033,Osasuna,Barcelona,1,2,2022-2023
+2034,Espanyol,Villarreal,0,1,2022-2023
+2035,Almeria,Getafe,1,0,2022-2023
+2036,Mallorca,Atletico de Madrid,1,0,2022-2023
+2037,Sevilla,Real Sociedad,1,2,2022-2023
+2038,Valencia,Betis,3,0,2022-2023
+2039,Rayo Vallecano,Celta Vigo,0,0,2022-2023
+2040,Real Madrid,Cadiz,2,1,2022-2023
+2041,Atletico de Madrid,Elche,2,0,2022-2023
+2042,Girona,Rayo Vallecano,2,2,2022-2023
+2043,Betis,Athletic Club,0,0,2022-2023
+2044,Celta Vigo,Sevilla,1,1,2022-2023
+2045,Getafe,Mallorca,2,0,2022-2023
+2046,Valladolid,Real Madrid,0,2,2022-2023
+2047,Cadiz,Almeria,1,1,2022-2023
+2048,Barcelona,Espanyol,1,1,2022-2023
+2049,Real Sociedad,Osasuna,2,0,2022-2023
+2050,Villarreal,Valencia,2,1,2022-2023
+2051,Elche,Celta Vigo,0,1,2022-2023
+2052,Valencia,Cadiz,0,1,2022-2023
+2053,Mallorca,Valladolid,1,0,2022-2023
+2054,Espanyol,Girona,2,2,2022-2023
+2055,Villarreal,Real Madrid,2,1,2022-2023
+2056,Atletico de Madrid,Barcelona,0,1,2022-2023
+2057,Almeria,Real Sociedad,0,2,2022-2023
+2058,Rayo Vallecano,Betis,1,2,2022-2023
+2059,Sevilla,Getafe,2,1,2022-2023
+2060,Athletic Club,Osasuna,0,0,2022-2023
+2061,Celta Vigo,Villarreal,1,1,2022-2023
+2062,Girona,Sevilla,2,1,2022-2023
+2063,Real Sociedad,Athletic Club,3,1,2022-2023
+2064,Osasuna,Mallorca,1,0,2022-2023
+2065,Valladolid,Rayo Vallecano,0,1,2022-2023
+2066,Almeria,Atletico de Madrid,1,1,2022-2023
+2067,Getafe,Espanyol,1,2,2022-2023
+2068,Cadiz,Elche,1,1,2022-2023
+2069,Betis,Barcelona,1,2,2022-2023
+2070,Real Madrid,Valencia,2,0,2022-2023
+2071,Mallorca,Celta Vigo,1,0,2022-2023
+2072,Atletico de Madrid,Valladolid,3,0,2022-2023
+2073,Rayo Vallecano,Real Sociedad,0,2,2022-2023
+2074,Espanyol,Betis,1,0,2022-2023
+2075,Sevilla,Cadiz,1,0,2022-2023
+2076,Athletic Club,Real Madrid,0,2,2022-2023
+2077,Barcelona,Getafe,1,0,2022-2023
+2078,Elche,Osasuna,1,1,2022-2023
+2079,Villarreal,Girona,1,0,2022-2023
+2080,Valencia,Almeria,2,2,2022-2023
+2081,Almeria,Espanyol,3,1,2022-2023
+2082,Cadiz,Mallorca,2,0,2022-2023
+2083,Girona,Barcelona,0,1,2022-2023
+2084,Getafe,Betis,0,1,2022-2023
+2085,Sevilla,Elche,3,0,2022-2023
+2086,Real Madrid,Real Sociedad,0,0,2022-2023
+2087,Celta Vigo,Athletic Club,1,0,2022-2023
+2088,Osasuna,Atletico de Madrid,0,1,2022-2023
+2089,Valladolid,Valencia,1,0,2022-2023
+2090,Villarreal,Rayo Vallecano,0,1,2022-2023
+2091,Athletic Club,Cadiz,4,1,2022-2023
+2092,Atletico de Madrid,Getafe,1,1,2022-2023
+2093,Betis,Celta Vigo,3,4,2022-2023
+2094,Elche,Villarreal,3,1,2022-2023
+2095,Espanyol,Osasuna,1,1,2022-2023
+2096,Barcelona,Sevilla,3,0,2022-2023
+2097,Mallorca,Real Madrid,1,0,2022-2023
+2098,Real Sociedad,Valladolid,0,1,2022-2023
+2099,Girona,Valencia,1,0,2022-2023
+2100,Rayo Vallecano,Almeria,2,0,2022-2023
+2101,Cadiz,Girona,2,0,2022-2023
+2102,Almeria,Betis,2,3,2022-2023
+2103,Valencia,Athletic Club,1,2,2022-2023
+2104,Sevilla,Mallorca,2,0,2022-2023
+2105,Getafe,Rayo Vallecano,1,1,2022-2023
+2106,Celta Vigo,Atletico de Madrid,0,1,2022-2023
+2107,Villarreal,Barcelona,0,1,2022-2023
+2108,Valladolid,Osasuna,0,0,2022-2023
+2109,Espanyol,Real Sociedad,2,3,2022-2023
+2110,Real Madrid,Elche,4,0,2022-2023
+2111,Girona,Almeria,6,2,2022-2023
+2112,Betis,Valladolid,2,1,2022-2023
+2113,Mallorca,Villarreal,4,2,2022-2023
+2114,Osasuna,Real Madrid,0,2,2022-2023
+2115,Real Sociedad,Celta Vigo,1,1,2022-2023
+2116,Barcelona,Cadiz,2,0,2022-2023
+2117,Elche,Espanyol,0,1,2022-2023
+2118,Rayo Vallecano,Sevilla,1,1,2022-2023
+2119,Atletico de Madrid,Athletic Club,1,0,2022-2023
+2120,Getafe,Valencia,1,0,2022-2023
+2121,Elche,Betis,2,3,2022-2023
+2122,Cadiz,Rayo Vallecano,1,0,2022-2023
+2123,Espanyol,Mallorca,2,1,2022-2023
+2124,Real Madrid,Atletico de Madrid,1,1,2022-2023
+2125,Valencia,Real Sociedad,1,0,2022-2023
+2126,Athletic Club,Girona,2,3,2022-2023
+2127,Celta Vigo,Valladolid,3,0,2022-2023
+2128,Almeria,Barcelona,1,0,2022-2023
+2129,Sevilla,Osasuna,2,3,2022-2023
+2130,Villarreal,Getafe,2,1,2022-2023
+2131,Real Sociedad,Cadiz,0,0,2022-2023
+2132,Atletico de Madrid,Sevilla,6,1,2022-2023
+2133,Getafe,Girona,3,2,2022-2023
+2134,Almeria,Villarreal,0,2,2022-2023
+2135,Mallorca,Elche,0,1,2022-2023
+2136,Barcelona,Valencia,1,0,2022-2023
+2137,Betis,Real Madrid,0,0,2022-2023
+2138,Rayo Vallecano,Athletic Club,0,0,2022-2023
+2139,Valladolid,Espanyol,2,1,2022-2023
+2140,Osasuna,Celta Vigo,0,0,2022-2023
+2141,Cadiz,Getafe,2,2,2022-2023
+2142,Celta Vigo,Rayo Vallecano,3,0,2022-2023
+2143,Elche,Valladolid,1,1,2022-2023
+2144,Real Madrid,Espanyol,3,1,2022-2023
+2145,Valencia,Osasuna,1,0,2022-2023
+2146,Athletic Club,Barcelona,0,1,2022-2023
+2147,Mallorca,Real Sociedad,1,1,2022-2023
+2148,Villarreal,Betis,1,1,2022-2023
+2149,Sevilla,Almeria,2,1,2022-2023
+2150,Girona,Atletico de Madrid,0,1,2022-2023
+2151,Valladolid,Athletic Club,1,3,2022-2023
+2152,Atletico de Madrid,Valencia,3,0,2022-2023
+2153,Almeria,Cadiz,1,1,2022-2023
+2154,Espanyol,Celta Vigo,1,3,2022-2023
+2155,Rayo Vallecano,Girona,2,2,2022-2023
+2156,Barcelona,Real Madrid,2,1,2022-2023
+2157,Betis,Mallorca,1,0,2022-2023
+2158,Getafe,Sevilla,2,0,2022-2023
+2159,Osasuna,Villarreal,0,3,2022-2023
+2160,Real Sociedad,Elche,2,0,2022-2023
+2161,Mallorca,Osasuna,0,0,2022-2023
+2162,Athletic Club,Getafe,0,0,2022-2023
+2163,Cadiz,Sevilla,0,2,2022-2023
+2164,Elche,Barcelona,0,4,2022-2023
+2165,Girona,Espanyol,2,1,2022-2023
+2166,Atletico de Madrid,Betis,1,0,2022-2023
+2167,Real Madrid,Valladolid,6,0,2022-2023
+2168,Villarreal,Real Sociedad,2,0,2022-2023
+2169,Celta Vigo,Almeria,2,2,2022-2023
+2170,Valencia,Rayo Vallecano,1,1,2022-2023
+2171,Sevilla,Celta Vigo,2,2,2022-2023
+2172,Real Madrid,Villarreal,2,3,2022-2023
+2173,Espanyol,Athletic Club,1,2,2022-2023
+2174,Osasuna,Elche,2,1,2022-2023
+2175,Real Sociedad,Getafe,2,0,2022-2023
+2176,Betis,Cadiz,0,2,2022-2023
+2177,Almeria,Valencia,2,1,2022-2023
+2178,Rayo Vallecano,Atletico de Madrid,1,2,2022-2023
+2179,Valladolid,Mallorca,3,3,2022-2023
+2180,Barcelona,Girona,0,0,2022-2023
+2181,Rayo Vallecano,Osasuna,2,1,2022-2023
+2182,Athletic Club,Real Sociedad,2,0,2022-2023
+2183,Betis,Espanyol,3,1,2022-2023
+2184,Cadiz,Real Madrid,0,2,2022-2023
+2185,Villarreal,Valladolid,1,2,2022-2023
+2186,Getafe,Barcelona,0,0,2022-2023
+2187,Girona,Elche,2,0,2022-2023
+2188,Valencia,Sevilla,0,2,2022-2023
+2189,Atletico de Madrid,Almeria,2,1,2022-2023
+2190,Celta Vigo,Mallorca,0,1,2022-2023
+2191,Espanyol,Cadiz,0,0,2022-2023
+2192,Almeria,Athletic Club,1,2,2022-2023
+2193,Osasuna,Betis,3,2,2022-2023
+2194,Real Madrid,Celta Vigo,2,0,2022-2023
+2195,Real Sociedad,Rayo Vallecano,2,1,2022-2023
+2196,Valladolid,Girona,1,0,2022-2023
+2197,Elche,Valencia,0,2,2022-2023
+2198,Sevilla,Villarreal,2,1,2022-2023
+2199,Barcelona,Atletico de Madrid,1,0,2022-2023
+2200,Mallorca,Getafe,3,1,2022-2023
+2201,Betis,Real Sociedad,0,0,2022-2023
+2202,Cadiz,Osasuna,0,1,2022-2023
+2203,Girona,Real Madrid,4,2,2022-2023
+2204,Atletico de Madrid,Mallorca,3,1,2022-2023
+2205,Celta Vigo,Elche,1,0,2022-2023
+2206,Rayo Vallecano,Barcelona,2,1,2022-2023
+2207,Getafe,Almeria,1,2,2022-2023
+2208,Athletic Club,Sevilla,0,1,2022-2023
+2209,Valencia,Valladolid,2,1,2022-2023
+2210,Villarreal,Espanyol,4,2,2022-2023
+2211,Osasuna,Real Sociedad,0,2,2022-2023
+2212,Barcelona,Betis,4,0,2022-2023
+2213,Elche,Rayo Vallecano,4,0,2022-2023
+2214,Real Madrid,Almeria,4,2,2022-2023
+2215,Cadiz,Valencia,2,1,2022-2023
+2216,Espanyol,Getafe,1,0,2022-2023
+2217,Valladolid,Atletico de Madrid,2,5,2022-2023
+2218,Villarreal,Celta Vigo,3,1,2022-2023
+2219,Mallorca,Athletic Club,1,1,2022-2023
+2220,Sevilla,Girona,0,2,2022-2023
+2221,Barcelona,Osasuna,1,0,2022-2023
+2222,Almeria,Elche,2,1,2022-2023
+2223,Real Sociedad,Real Madrid,2,0,2022-2023
+2224,Atletico de Madrid,Cadiz,5,1,2022-2023
+2225,Valencia,Villarreal,1,1,2022-2023
+2226,Getafe,Celta Vigo,1,0,2022-2023
+2227,Athletic Club,Betis,0,1,2022-2023
+2228,Rayo Vallecano,Valladolid,2,1,2022-2023
+2229,Girona,Mallorca,2,1,2022-2023
+2230,Sevilla,Espanyol,3,2,2022-2023
+2231,Mallorca,Cadiz,1,0,2022-2023
+2232,Villarreal,Athletic Club,5,1,2022-2023
+2233,Real Madrid,Getafe,1,0,2022-2023
+2234,Osasuna,Almeria,3,1,2022-2023
+2235,Real Sociedad,Girona,2,2,2022-2023
+2236,Celta Vigo,Valencia,1,2,2022-2023
+2237,Elche,Atletico de Madrid,1,0,2022-2023
+2238,Espanyol,Barcelona,2,4,2022-2023
+2239,Valladolid,Sevilla,0,3,2022-2023
+2240,Betis,Rayo Vallecano,3,1,2022-2023
+2241,Cadiz,Valladolid,2,0,2022-2023
+2242,Athletic Club,Celta Vigo,2,1,2022-2023
+2243,Barcelona,Real Sociedad,1,2,2022-2023
+2244,Almeria,Mallorca,3,0,2022-2023
+2245,Girona,Villarreal,1,2,2022-2023
+2246,Getafe,Elche,1,1,2022-2023
+2247,Atletico de Madrid,Osasuna,3,0,2022-2023
+2248,Sevilla,Betis,0,0,2022-2023
+2249,Rayo Vallecano,Espanyol,1,2,2022-2023
+2250,Valencia,Real Madrid,1,0,2022-2023
+2251,Celta Vigo,Girona,1,1,2022-2023
+2252,Valladolid,Barcelona,3,1,2022-2023
+2253,Real Sociedad,Almeria,1,0,2022-2023
+2254,Betis,Getafe,0,1,2022-2023
+2255,Elche,Sevilla,1,1,2022-2023
+2256,Espanyol,Atletico de Madrid,3,3,2022-2023
+2257,Villarreal,Cadiz,2,0,2022-2023
+2258,Real Madrid,Rayo Vallecano,2,1,2022-2023
+2259,Mallorca,Valencia,1,0,2022-2023
+2260,Osasuna,Athletic Club,2,0,2022-2023
+2261,Sevilla,Real Madrid,1,2,2022-2023
+2262,Athletic Club,Elche,0,1,2022-2023
+2263,Atletico de Madrid,Real Sociedad,2,1,2022-2023
+2264,Barcelona,Mallorca,3,0,2022-2023
+2265,Getafe,Osasuna,2,1,2022-2023
+2266,Cadiz,Celta Vigo,1,0,2022-2023
+2267,Rayo Vallecano,Villarreal,2,1,2022-2023
+2268,Almeria,Valladolid,0,0,2022-2023
+2269,Girona,Betis,1,2,2022-2023
+2270,Valencia,Espanyol,2,2,2022-2023
+2271,Betis,Valencia,1,1,2022-2023
+2272,Mallorca,Rayo Vallecano,3,0,2022-2023
+2273,Real Sociedad,Sevilla,2,1,2022-2023
+2274,Real Madrid,Athletic Club,1,1,2022-2023
+2275,Villarreal,Atletico de Madrid,2,2,2022-2023
+2276,Celta Vigo,Barcelona,2,1,2022-2023
+2277,Valladolid,Getafe,0,0,2022-2023
+2278,Elche,Cadiz,1,1,2022-2023
+2279,Espanyol,Almeria,3,3,2022-2023
+2280,Osasuna,Girona,2,1,2022-2023
+2281,Almeria,Rayo Vallecano,0,2,2023-2024
+2282,Sevilla,Valencia,1,2,2023-2024
+2283,Real Sociedad,Girona,1,1,2023-2024
+2284,Las Palmas,Mallorca,1,1,2023-2024
+2285,Athletic Club,Real Madrid,0,2,2023-2024
+2286,Celta Vigo,Osasuna,0,2,2023-2024
+2287,Villarreal,Betis,1,2,2023-2024
+2288,Getafe,Barcelona,0,0,2023-2024
+2289,Cadiz,Alaves,1,0,2023-2024
+2290,Atletico de Madrid,Granada,3,1,2023-2024
+2291,Mallorca,Villarreal,0,1,2023-2024
+2292,Valencia,Las Palmas,1,0,2023-2024
+2293,Real Sociedad,Celta Vigo,1,1,2023-2024
+2294,Almeria,Real Madrid,1,3,2023-2024
+2295,Osasuna,Athletic Club,0,2,2023-2024
+2296,Girona,Getafe,3,0,2023-2024
+2297,Barcelona,Cadiz,2,0,2023-2024
+2298,Betis,Atletico de Madrid,0,0,2023-2024
+2299,Alaves,Sevilla,4,3,2023-2024
+2300,Granada,Rayo Vallecano,0,2,2023-2024
+2301,Las Palmas,Real Sociedad,0,0,2023-2024
+2302,Celta Vigo,Real Madrid,0,1,2023-2024
+2303,Cadiz,Almeria,1,1,2023-2024
+2304,Granada,Mallorca,3,2,2023-2024
+2305,Sevilla,Girona,1,2,2023-2024
+2306,Athletic Club,Betis,4,2,2023-2024
+2307,Villarreal,Barcelona,3,4,2023-2024
+2308,Valencia,Osasuna,1,2,2023-2024
+2309,Getafe,Alaves,1,0,2023-2024
+2310,Rayo Vallecano,Atletico de Madrid,0,7,2023-2024
+2311,Almeria,Celta Vigo,2,3,2023-2024
+2312,Cadiz,Villarreal,3,1,2023-2024
+2313,Betis,Rayo Vallecano,1,0,2023-2024
+2314,Alaves,Valencia,1,0,2023-2024
+2315,Real Madrid,Getafe,2,1,2023-2024
+2316,Real Sociedad,Granada,5,3,2023-2024
+2317,Girona,Las Palmas,1,0,2023-2024
+2318,Mallorca,Athletic Club,0,0,2023-2024
+2319,Osasuna,Barcelona,1,2,2023-2024
+2320,Atletico de Madrid,Sevilla,1,0,2023-2024
+2321,Rayo Vallecano,Alaves,2,0,2023-2024
+2322,Athletic Club,Cadiz,3,0,2023-2024
+2323,Barcelona,Betis,5,0,2023-2024
+2324,Celta Vigo,Mallorca,0,1,2023-2024
+2325,Valencia,Atletico de Madrid,3,0,2023-2024
+2326,Getafe,Osasuna,3,2,2023-2024
+2327,Real Madrid,Real Sociedad,2,1,2023-2024
+2328,Villarreal,Almeria,2,1,2023-2024
+2329,Sevilla,Las Palmas,1,0,2023-2024
+2330,Granada,Girona,2,4,2023-2024
+2331,Alaves,Athletic Club,0,2,2023-2024
+2332,Almeria,Valencia,2,2,2023-2024
+2333,Barcelona,Celta Vigo,3,2,2023-2024
+2334,Girona,Mallorca,5,3,2023-2024
+2335,Osasuna,Sevilla,0,0,2023-2024
+2336,Atletico de Madrid,Real Madrid,3,1,2023-2024
+2337,Betis,Cadiz,1,1,2023-2024
+2338,Rayo Vallecano,Villarreal,1,1,2023-2024
+2339,Real Sociedad,Getafe,4,3,2023-2024
+2340,Las Palmas,Granada,1,0,2023-2024
+2341,Sevilla,Almeria,5,1,2023-2024
+2342,Mallorca,Barcelona,2,2,2023-2024
+2343,Athletic Club,Getafe,2,2,2023-2024
+2344,Cadiz,Rayo Vallecano,0,0,2023-2024
+2345,Villarreal,Girona,1,2,2023-2024
+2346,Valencia,Real Sociedad,0,1,2023-2024
+2347,Real Madrid,Las Palmas,2,0,2023-2024
+2348,Osasuna,Atletico de Madrid,0,2,2023-2024
+2349,Granada,Betis,1,1,2023-2024
+2350,Celta Vigo,Alaves,1,1,2023-2024
+2351,Barcelona,Sevilla,1,0,2023-2024
+2352,Getafe,Villarreal,0,0,2023-2024
+2353,Girona,Real Madrid,0,3,2023-2024
+2354,Real Sociedad,Athletic Club,3,0,2023-2024
+2355,Rayo Vallecano,Mallorca,2,2,2023-2024
+2356,Almeria,Granada,3,3,2023-2024
+2357,Atletico de Madrid,Cadiz,3,2,2023-2024
+2358,Betis,Valencia,3,0,2023-2024
+2359,Alaves,Osasuna,0,2,2023-2024
+2360,Las Palmas,Celta Vigo,2,1,2023-2024
+2361,Athletic Club,Almeria,3,0,2023-2024
+2362,Cadiz,Girona,0,1,2023-2024
+2363,Mallorca,Valencia,1,1,2023-2024
+2364,Real Madrid,Osasuna,4,0,2023-2024
+2365,Sevilla,Rayo Vallecano,2,2,2023-2024
+2366,Atletico de Madrid,Real Sociedad,2,1,2023-2024
+2367,Celta Vigo,Getafe,2,2,2023-2024
+2368,Alaves,Betis,1,1,2023-2024
+2369,Granada,Barcelona,2,2,2023-2024
+2370,Villarreal,Las Palmas,1,2,2023-2024
+2371,Osasuna,Granada,2,0,2023-2024
+2372,Celta Vigo,Atletico de Madrid,0,3,2023-2024
+2373,Getafe,Betis,1,1,2023-2024
+2374,Real Sociedad,Mallorca,1,0,2023-2024
+2375,Sevilla,Real Madrid,1,1,2023-2024
+2376,Las Palmas,Rayo Vallecano,0,1,2023-2024
+2377,Girona,Almeria,5,2,2023-2024
+2378,Barcelona,Athletic Club,1,0,2023-2024
+2379,Villarreal,Alaves,1,1,2023-2024
+2380,Valencia,Cadiz,2,0,2023-2024
+2381,Girona,Celta Vigo,1,0,2023-2024
+2382,Almeria,Las Palmas,1,2,2023-2024
+2383,Barcelona,Real Madrid,1,2,2023-2024
+2384,Cadiz,Sevilla,2,2,2023-2024
+2385,Mallorca,Getafe,0,0,2023-2024
+2386,Athletic Club,Valencia,2,2,2023-2024
+2387,Betis,Osasuna,2,1,2023-2024
+2388,Rayo Vallecano,Real Sociedad,2,2,2023-2024
+2389,Atletico de Madrid,Alaves,2,1,2023-2024
+2390,Granada,Villarreal,2,3,2023-2024
+2391,Las Palmas,Atletico de Madrid,2,1,2023-2024
+2392,Betis,Mallorca,2,0,2023-2024
+2393,Celta Vigo,Sevilla,1,1,2023-2024
+2394,Real Sociedad,Barcelona,0,1,2023-2024
+2395,Osasuna,Girona,2,4,2023-2024
+2396,Alaves,Almeria,1,0,2023-2024
+2397,Villarreal,Athletic Club,2,3,2023-2024
+2398,Real Madrid,Rayo Vallecano,0,0,2023-2024
+2399,Valencia,Granada,1,0,2023-2024
+2400,Getafe,Cadiz,1,0,2023-2024
+2401,Athletic Club,Celta Vigo,4,3,2023-2024
+2402,Almeria,Real Sociedad,1,3,2023-2024
+2403,Real Madrid,Valencia,5,1,2023-2024
+2404,Granada,Getafe,1,1,2023-2024
+2405,Rayo Vallecano,Girona,1,2,2023-2024
+2406,Osasuna,Las Palmas,1,1,2023-2024
+2407,Atletico de Madrid,Villarreal,3,1,2023-2024
+2408,Sevilla,Betis,1,1,2023-2024
+2409,Barcelona,Alaves,2,1,2023-2024
+2410,Mallorca,Cadiz,1,1,2023-2024
+2411,Alaves,Granada,3,1,2023-2024
+2412,Atletico de Madrid,Mallorca,1,0,2023-2024
+2413,Getafe,Almeria,2,1,2023-2024
+2414,Rayo Vallecano,Barcelona,1,1,2023-2024
+2415,Valencia,Celta Vigo,0,0,2023-2024
+2416,Betis,Las Palmas,1,0,2023-2024
+2417,Cadiz,Real Madrid,0,3,2023-2024
+2418,Real Sociedad,Sevilla,2,1,2023-2024
+2419,Villarreal,Osasuna,3,1,2023-2024
+2420,Girona,Athletic Club,1,1,2023-2024
+2421,Las Palmas,Getafe,2,0,2023-2024
+2422,Athletic Club,Rayo Vallecano,4,0,2023-2024
+2423,Girona,Valencia,2,1,2023-2024
+2424,Osasuna,Real Sociedad,1,1,2023-2024
+2425,Real Madrid,Granada,2,0,2023-2024
+2426,Almeria,Betis,0,0,2023-2024
+2427,Sevilla,Villarreal,1,1,2023-2024
+2428,Barcelona,Atletico de Madrid,1,0,2023-2024
+2429,Mallorca,Alaves,0,0,2023-2024
+2430,Celta Vigo,Cadiz,1,1,2023-2024
+2431,Getafe,Valencia,1,0,2023-2024
+2432,Betis,Real Madrid,1,1,2023-2024
+2433,Mallorca,Sevilla,1,0,2023-2024
+2434,Alaves,Las Palmas,0,1,2023-2024
+2435,Villarreal,Real Sociedad,0,3,2023-2024
+2436,Barcelona,Girona,2,4,2023-2024
+2437,Cadiz,Osasuna,1,1,2023-2024
+2438,Atletico de Madrid,Almeria,2,1,2023-2024
+2439,Granada,Athletic Club,1,1,2023-2024
+2440,Rayo Vallecano,Celta Vigo,0,0,2023-2024
+2441,Osasuna,Rayo Vallecano,1,0,2023-2024
+2442,Athletic Club,Atletico de Madrid,2,0,2023-2024
+2443,Celta Vigo,Granada,1,0,2023-2024
+2444,Valencia,Barcelona,1,1,2023-2024
+2445,Sevilla,Getafe,0,3,2023-2024
+2446,Almeria,Mallorca,0,0,2023-2024
+2447,Real Madrid,Villarreal,4,1,2023-2024
+2448,Real Sociedad,Betis,0,0,2023-2024
+2449,Las Palmas,Cadiz,1,1,2023-2024
+2450,Girona,Alaves,3,0,2023-2024
+2451,Atletico de Madrid,Getafe,3,3,2023-2024
+2452,Rayo Vallecano,Valencia,0,1,2023-2024
+2453,Granada,Sevilla,0,3,2023-2024
+2454,Athletic Club,Las Palmas,1,0,2023-2024
+2455,Barcelona,Almeria,3,2,2023-2024
+2456,Villarreal,Celta Vigo,3,2,2023-2024
+2457,Betis,Girona,1,1,2023-2024
+2458,Cadiz,Real Sociedad,0,0,2023-2024
+2459,Mallorca,Osasuna,3,2,2023-2024
+2460,Alaves,Real Madrid,0,1,2023-2024
+2461,Getafe,Rayo Vallecano,0,2,2023-2024
+2462,Valencia,Villarreal,3,1,2023-2024
+2463,Real Sociedad,Alaves,1,1,2023-2024
+2464,Girona,Atletico de Madrid,4,3,2023-2024
+2465,Celta Vigo,Betis,2,1,2023-2024
+2466,Granada,Cadiz,2,0,2023-2024
+2467,Real Madrid,Mallorca,1,0,2023-2024
+2468,Osasuna,Almeria,1,0,2023-2024
+2469,Sevilla,Athletic Club,0,2,2023-2024
+2470,Las Palmas,Barcelona,1,2,2023-2024
+2471,Sevilla,Alaves,2,3,2023-2024
+2472,Athletic Club,Real Sociedad,2,1,2023-2024
+2473,Betis,Granada,1,0,2023-2024
+2474,Las Palmas,Villarreal,3,0,2023-2024
+2475,Mallorca,Celta Vigo,1,1,2023-2024
+2476,Almeria,Girona,0,0,2023-2024
+2477,Cadiz,Valencia,1,4,2023-2024
+2478,Atletico de Madrid,Rayo Vallecano,2,1,2023-2024
+2479,Barcelona,Osasuna,1,0,2023-2024
+2480,Getafe,Real Madrid,0,2,2023-2024
+2481,Alaves,Cadiz,1,0,2023-2024
+2482,Celta Vigo,Real Sociedad,0,1,2023-2024
+2483,Valencia,Athletic Club,1,0,2023-2024
+2484,Villarreal,Mallorca,1,1,2023-2024
+2485,Rayo Vallecano,Las Palmas,0,2,2023-2024
+2486,Girona,Sevilla,5,1,2023-2024
+2487,Real Madrid,Almeria,3,2,2023-2024
+2488,Betis,Barcelona,2,4,2023-2024
+2489,Osasuna,Getafe,3,2,2023-2024
+2490,Granada,Atletico de Madrid,0,1,2023-2024
+2491,Almeria,Alaves,0,3,2023-2024
+2492,Barcelona,Villarreal,3,5,2023-2024
+2493,Las Palmas,Real Madrid,1,2,2023-2024
+2494,Mallorca,Betis,0,1,2023-2024
+2495,Real Sociedad,Rayo Vallecano,0,0,2023-2024
+2496,Atletico de Madrid,Valencia,2,0,2023-2024
+2497,Celta Vigo,Girona,0,1,2023-2024
+2498,Cadiz,Athletic Club,0,0,2023-2024
+2499,Sevilla,Osasuna,1,1,2023-2024
+2500,Getafe,Granada,2,0,2023-2024
+2501,Athletic Club,Mallorca,4,0,2023-2024
+2502,Girona,Real Sociedad,0,0,2023-2024
+2503,Granada,Las Palmas,1,1,2023-2024
+2504,Alaves,Barcelona,1,3,2023-2024
+2505,Valencia,Almeria,2,1,2023-2024
+2506,Betis,Getafe,1,1,2023-2024
+2507,Real Madrid,Atletico de Madrid,1,1,2023-2024
+2508,Villarreal,Cadiz,0,0,2023-2024
+2509,Osasuna,Celta Vigo,0,3,2023-2024
+2510,Rayo Vallecano,Sevilla,1,2,2023-2024
+2511,Cadiz,Betis,0,2,2023-2024
+2512,Las Palmas,Valencia,2,0,2023-2024
+2513,Alaves,Villarreal,1,1,2023-2024
+2514,Real Madrid,Girona,4,0,2023-2024
+2515,Real Sociedad,Osasuna,0,1,2023-2024
+2516,Barcelona,Granada,3,3,2023-2024
+2517,Mallorca,Rayo Vallecano,2,1,2023-2024
+2518,Sevilla,Atletico de Madrid,1,0,2023-2024
+2519,Getafe,Celta Vigo,3,2,2023-2024
+2520,Almeria,Athletic Club,0,0,2023-2024
+2521,Villarreal,Getafe,1,1,2023-2024
+2522,Atletico de Madrid,Las Palmas,5,0,2023-2024
+2523,Celta Vigo,Barcelona,1,2,2023-2024
+2524,Osasuna,Cadiz,2,0,2023-2024
+2525,Valencia,Sevilla,0,0,2023-2024
+2526,Mallorca,Real Sociedad,1,2,2023-2024
+2527,Rayo Vallecano,Real Madrid,1,1,2023-2024
+2528,Granada,Almeria,1,1,2023-2024
+2529,Betis,Alaves,0,0,2023-2024
+2530,Athletic Club,Girona,3,2,2023-2024
+2531,Real Sociedad,Villarreal,1,3,2023-2024
+2532,Almeria,Atletico de Madrid,2,2,2023-2024
+2533,Barcelona,Getafe,4,0,2023-2024
+2534,Alaves,Mallorca,1,1,2023-2024
+2535,Cadiz,Celta Vigo,2,2,2023-2024
+2536,Real Madrid,Sevilla,1,0,2023-2024
+2537,Las Palmas,Osasuna,1,1,2023-2024
+2538,Betis,Athletic Club,3,1,2023-2024
+2539,Girona,Rayo Vallecano,3,0,2023-2024
+2540,Granada,Valencia,0,1,2023-2024
+2541,Celta Vigo,Almeria,1,0,2023-2024
+2542,Getafe,Las Palmas,3,3,2023-2024
+2543,Rayo Vallecano,Cadiz,1,1,2023-2024
+2544,Valencia,Real Madrid,2,2,2023-2024
+2545,Sevilla,Real Sociedad,3,2,2023-2024
+2546,Athletic Club,Barcelona,0,0,2023-2024
+2547,Atletico de Madrid,Betis,2,1,2023-2024
+2548,Mallorca,Girona,1,0,2023-2024
+2549,Villarreal,Granada,5,1,2023-2024
+2550,Osasuna,Alaves,1,0,2023-2024
+2551,Barcelona,Mallorca,1,0,2023-2024
+2552,Girona,Osasuna,2,0,2023-2024
+2553,Granada,Real Sociedad,2,3,2023-2024
+2554,Cadiz,Atletico de Madrid,2,0,2023-2024
+2555,Valencia,Getafe,1,0,2023-2024
+2556,Betis,Villarreal,2,3,2023-2024
+2557,Alaves,Rayo Vallecano,1,0,2023-2024
+2558,Las Palmas,Athletic Club,0,2,2023-2024
+2559,Real Madrid,Celta Vigo,4,0,2023-2024
+2560,Almeria,Sevilla,2,2,2023-2024
+2561,Real Sociedad,Cadiz,2,0,2023-2024
+2562,Getafe,Girona,1,0,2023-2024
+2563,Osasuna,Real Madrid,2,4,2023-2024
+2564,Mallorca,Granada,1,0,2023-2024
+2565,Athletic Club,Alaves,2,0,2023-2024
+2566,Atletico de Madrid,Barcelona,0,3,2023-2024
+2567,Las Palmas,Almeria,0,1,2023-2024
+2568,Rayo Vallecano,Betis,2,0,2023-2024
+2569,Sevilla,Celta Vigo,1,2,2023-2024
+2570,Villarreal,Valencia,1,0,2023-2024
+2571,Cadiz,Granada,1,0,2023-2024
+2572,Almeria,Osasuna,0,3,2023-2024
+2573,Barcelona,Las Palmas,1,0,2023-2024
+2574,Getafe,Sevilla,0,1,2023-2024
+2575,Valencia,Mallorca,0,0,2023-2024
+2576,Celta Vigo,Rayo Vallecano,0,0,2023-2024
+2577,Alaves,Real Sociedad,0,1,2023-2024
+2578,Real Madrid,Athletic Club,2,0,2023-2024
+2579,Girona,Betis,3,2,2023-2024
+2580,Villarreal,Atletico de Madrid,1,2,2023-2024
+2581,Betis,Celta Vigo,2,1,2023-2024
+2582,Atletico de Madrid,Girona,3,1,2023-2024
+2583,Mallorca,Real Madrid,0,1,2023-2024
+2584,Cadiz,Barcelona,0,1,2023-2024
+2585,Rayo Vallecano,Getafe,0,0,2023-2024
+2586,Athletic Club,Villarreal,1,1,2023-2024
+2587,Las Palmas,Sevilla,0,2,2023-2024
+2588,Real Sociedad,Almeria,2,2,2023-2024
+2589,Granada,Alaves,2,0,2023-2024
+2590,Osasuna,Valencia,0,1,2023-2024
+2591,Athletic Club,Granada,1,1,2023-2024
+2592,Celta Vigo,Las Palmas,4,1,2023-2024
+2593,Valencia,Betis,1,2,2023-2024
+2594,Girona,Cadiz,4,1,2023-2024
+2595,Rayo Vallecano,Osasuna,2,1,2023-2024
+2596,Almeria,Villarreal,1,2,2023-2024
+2597,Getafe,Real Sociedad,1,1,2023-2024
+2598,Alaves,Atletico de Madrid,2,0,2023-2024
+2599,Real Madrid,Barcelona,3,2,2023-2024
+2600,Sevilla,Mallorca,2,1,2023-2024
+2601,Real Sociedad,Real Madrid,0,1,2023-2024
+2602,Almeria,Getafe,1,3,2023-2024
+2603,Alaves,Celta Vigo,3,0,2023-2024
+2604,Atletico de Madrid,Athletic Club,3,1,2023-2024
+2605,Las Palmas,Girona,0,2,2023-2024
+2606,Betis,Sevilla,1,1,2023-2024
+2607,Cadiz,Mallorca,1,1,2023-2024
+2608,Granada,Osasuna,3,0,2023-2024
+2609,Villarreal,Rayo Vallecano,3,0,2023-2024
+2610,Barcelona,Valencia,4,2,2023-2024
+2611,Getafe,Athletic Club,0,2,2023-2024
+2612,Mallorca,Atletico de Madrid,0,1,2023-2024
+2613,Girona,Barcelona,4,2,2023-2024
+2614,Real Madrid,Cadiz,3,0,2023-2024
+2615,Real Sociedad,Las Palmas,2,0,2023-2024
+2616,Celta Vigo,Villarreal,3,2,2023-2024
+2617,Rayo Vallecano,Almeria,0,1,2023-2024
+2618,Osasuna,Betis,0,2,2023-2024
+2619,Sevilla,Granada,3,0,2023-2024
+2620,Valencia,Alaves,0,1,2023-2024
+2621,Alaves,Girona,2,2,2023-2024
+2622,Athletic Club,Osasuna,2,2,2023-2024
+2623,Granada,Real Madrid,0,4,2023-2024
+2624,Villarreal,Sevilla,3,2,2023-2024
+2625,Mallorca,Las Palmas,1,0,2023-2024
+2626,Atletico de Madrid,Celta Vigo,1,0,2023-2024
+2627,Cadiz,Getafe,1,0,2023-2024
+2628,Betis,Almeria,3,2,2023-2024
+2629,Valencia,Rayo Vallecano,0,0,2023-2024
+2630,Barcelona,Real Sociedad,2,0,2023-2024
+2631,Girona,Villarreal,0,1,2023-2024
+2632,Osasuna,Mallorca,1,1,2023-2024
+2633,Real Madrid,Alaves,5,0,2023-2024
+2634,Celta Vigo,Athletic Club,2,1,2023-2024
+2635,Getafe,Atletico de Madrid,0,3,2023-2024
+2636,Sevilla,Cadiz,0,1,2023-2024
+2637,Rayo Vallecano,Granada,2,1,2023-2024
+2638,Almeria,Barcelona,0,2,2023-2024
+2639,Real Sociedad,Valencia,1,0,2023-2024
+2640,Las Palmas,Betis,2,2,2023-2024
+2641,Alaves,Getafe,1,0,2023-2024
+2642,Athletic Club,Sevilla,2,0,2023-2024
+2643,Atletico de Madrid,Osasuna,1,4,2023-2024
+2644,Barcelona,Rayo Vallecano,3,0,2023-2024
+2645,Betis,Real Sociedad,0,2,2023-2024
+2646,Cadiz,Las Palmas,0,0,2023-2024
+2647,Mallorca,Almeria,2,2,2023-2024
+2648,Granada,Celta Vigo,1,2,2023-2024
+2649,Valencia,Girona,1,3,2023-2024
+2650,Villarreal,Real Madrid,4,4,2023-2024
+2651,Girona,Granada,7,0,2023-2024
+2652,Almeria,Cadiz,6,1,2023-2024
+2653,Osasuna,Villarreal,1,1,2023-2024
+2654,Rayo Vallecano,Athletic Club,0,1,2023-2024
+2655,Real Sociedad,Atletico de Madrid,0,2,2023-2024
+2656,Real Madrid,Betis,0,0,2023-2024
+2657,Celta Vigo,Valencia,2,2,2023-2024
+2658,Getafe,Mallorca,1,2,2023-2024
+2659,Sevilla,Barcelona,1,2,2023-2024
+2660,Las Palmas,Alaves,1,1,2023-2024
