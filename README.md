@@ -5,6 +5,7 @@ statistics, merges them into a single match-level dataset, and trains a neural
 network to predict whether the home team wins.
 
 Built as a research project for *Tópicos Selectos de la Investigación* (UABC).
+Full write-up: [`docs/TSI_P7_CastanedaSanchez_361039.docx`](docs/TSI_P7_CastanedaSanchez_361039.docx).
 
 ---
 
@@ -142,8 +143,9 @@ XGBoost 7/10, neural network 8/10. Ten matches is far too small a sample to mean
 anything — the per-model accuracy above is the number that counts. It is recorded
 here because it is what the fixtures in `current_season_data/j1/` were collected for.
 
-> The XGBoost comparison was run as part of the research write-up; only the neural
-> network and the Random Forest baseline are implemented in this repository.
+> Metrics come from the [research write-up](docs/TSI_P7_CastanedaSanchez_361039.docx).
+> The XGBoost comparison was run there; only the neural network and the Random Forest
+> baseline are implemented in this repository.
 
 ### Hyperparameter search
 
