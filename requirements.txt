@@ -1,0 +1,22 @@
+# Scraping
+selenium
+beautifulsoup4
+requests
+Unidecode
+
+# Data wrangling
+pandas
+numpy
+
+# Modeling
+scikit-learn
+imbalanced-learn
+tensorflow
+keras-tuner
+joblib
+
+# Notebooks & plots
+matplotlib
+seaborn
+jupyter
+ipywidgets

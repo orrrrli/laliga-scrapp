@@ -164,3 +164,12 @@ build/
 
 #NDK
 obj/
+###########################
+### laliga-scrapp       ###
+###########################
+
+# Keras Tuner search artifacts — hundreds of MB of trial checkpoints.
+# Regenerate by re-running the tuning notebook.
+my_dir/
+*.h5
+!training_model/neuronal_networks/soccer_model.h5
